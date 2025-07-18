@@ -272,22 +272,6 @@
     }
   },
   {
-    "name": "playlist_czech_republic.m3u8",
-    "path": "playlists/playlist_czech_republic.m3u8",
-    "sha": "5b780919cf4e6256627896b474bb5a8b29f80d60",
-    "size": 21167,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_czech_republic.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_czech_republic.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/5b780919cf4e6256627896b474bb5a8b29f80d60",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_czech_republic.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_czech_republic.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/5b780919cf4e6256627896b474bb5a8b29f80d60",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_czech_republic.m3u8"
-    }
-  },
-  {
     "name": "playlist_denmark.m3u8",
     "path": "playlists/playlist_denmark.m3u8",
     "sha": "9e9a52412b342b86876555db58b8c24d042320e3",
