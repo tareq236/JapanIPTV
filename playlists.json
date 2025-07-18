@@ -144,22 +144,6 @@
     }
   },
   {
-    "name": "playlist_bosnia_and_herzegovina.m3u8",
-    "path": "playlists/playlist_bosnia_and_herzegovina.m3u8",
-    "sha": "42d10e4113eab309f7d305b38602b966ca44bfb1",
-    "size": 18469,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_bosnia_and_herzegovina.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_bosnia_and_herzegovina.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/42d10e4113eab309f7d305b38602b966ca44bfb1",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_bosnia_and_herzegovina.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_bosnia_and_herzegovina.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/42d10e4113eab309f7d305b38602b966ca44bfb1",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_bosnia_and_herzegovina.m3u8"
-    }
-  },
-  {
     "name": "playlist_brazil.m3u8",
     "path": "playlists/playlist_brazil.m3u8",
     "sha": "daa2ea90d8a91dd26ba90545acf5dabb9b7a5e8b",
@@ -256,22 +240,6 @@
     }
   },
   {
-    "name": "playlist_costa_rica.m3u8",
-    "path": "playlists/playlist_costa_rica.m3u8",
-    "sha": "e8777304f89b8915ad23eca7b079369cd4b4522a",
-    "size": 16764,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_costa_rica.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_costa_rica.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/e8777304f89b8915ad23eca7b079369cd4b4522a",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_costa_rica.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_costa_rica.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/e8777304f89b8915ad23eca7b079369cd4b4522a",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_costa_rica.m3u8"
-    }
-  },
-  {
     "name": "playlist_croatia.m3u8",
     "path": "playlists/playlist_croatia.m3u8",
     "sha": "8d074bcf1fa936d2d22b70401c6fbe686d8914f8",
@@ -336,22 +304,6 @@
     }
   },
   {
-    "name": "playlist_dominican_republic.m3u8",
-    "path": "playlists/playlist_dominican_republic.m3u8",
-    "sha": "12a26a23690d717656684f96482ccaf66b5ddf6e",
-    "size": 15288,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_dominican_republic.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_dominican_republic.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/12a26a23690d717656684f96482ccaf66b5ddf6e",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_dominican_republic.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_dominican_republic.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/12a26a23690d717656684f96482ccaf66b5ddf6e",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_dominican_republic.m3u8"
-    }
-  },
-  {
     "name": "playlist_egypt.m3u8",
     "path": "playlists/playlist_egypt.m3u8",
     "sha": "4243b8f7f8ca242d22aac8cadfa589152c2a561d",
@@ -381,22 +333,6 @@
       "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_estonia.m3u8?ref=master",
       "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/cea50a03e12c3878d72819f4c88c896a4599ae40",
       "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_estonia.m3u8"
-    }
-  },
-  {
-    "name": "playlist_faroe_islands.m3u8",
-    "path": "playlists/playlist_faroe_islands.m3u8",
-    "sha": "19690b76fb7ddf86a3cc4b2510a024623543bb21",
-    "size": 15569,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_faroe_islands.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_faroe_islands.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/19690b76fb7ddf86a3cc4b2510a024623543bb21",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_faroe_islands.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_faroe_islands.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/19690b76fb7ddf86a3cc4b2510a024623543bb21",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_faroe_islands.m3u8"
     }
   },
   {
@@ -493,22 +429,6 @@
       "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_greenland.m3u8?ref=master",
       "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/3debeed7fbf87bd1afb39d9a128efae65cb47e3b",
       "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_greenland.m3u8"
-    }
-  },
-  {
-    "name": "playlist_hong_kong.m3u8",
-    "path": "playlists/playlist_hong_kong.m3u8",
-    "sha": "bdc2f2edb409a0e29e59cef77ef6f1fc346f5b38",
-    "size": 16059,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_hong_kong.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_hong_kong.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/bdc2f2edb409a0e29e59cef77ef6f1fc346f5b38",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_hong_kong.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_hong_kong.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/bdc2f2edb409a0e29e59cef77ef6f1fc346f5b38",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_hong_kong.m3u8"
     }
   },
   {
@@ -880,38 +800,6 @@
     }
   },
   {
-    "name": "playlist_north_korea.m3u8",
-    "path": "playlists/playlist_north_korea.m3u8",
-    "sha": "3197473aa1b00505618bf0aac8dbb80983c710dd",
-    "size": 15301,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_north_korea.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_north_korea.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/3197473aa1b00505618bf0aac8dbb80983c710dd",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_north_korea.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_north_korea.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/3197473aa1b00505618bf0aac8dbb80983c710dd",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_north_korea.m3u8"
-    }
-  },
-  {
-    "name": "playlist_north_macedonia.m3u8",
-    "path": "playlists/playlist_north_macedonia.m3u8",
-    "sha": "175e223db4dcdbcf53af46788da2d80e03ac0a0b",
-    "size": 19766,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_north_macedonia.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_north_macedonia.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/175e223db4dcdbcf53af46788da2d80e03ac0a0b",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_north_macedonia.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_north_macedonia.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/175e223db4dcdbcf53af46788da2d80e03ac0a0b",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_north_macedonia.m3u8"
-    }
-  },
-  {
     "name": "playlist_norway.m3u8",
     "path": "playlists/playlist_norway.m3u8",
     "sha": "896ab83767f82ad6dbd232378b8e56ff15b788e7",
@@ -1040,38 +928,6 @@
     }
   },
   {
-    "name": "playlist_san_marino.m3u8",
-    "path": "playlists/playlist_san_marino.m3u8",
-    "sha": "029af956bdaf356c7b300137818092cc74dc1866",
-    "size": 15540,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_san_marino.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_san_marino.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/029af956bdaf356c7b300137818092cc74dc1866",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_san_marino.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_san_marino.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/029af956bdaf356c7b300137818092cc74dc1866",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_san_marino.m3u8"
-    }
-  },
-  {
-    "name": "playlist_saudi_arabia.m3u8",
-    "path": "playlists/playlist_saudi_arabia.m3u8",
-    "sha": "57210bcb97f12b9dc9f300477dface910dee1719",
-    "size": 16782,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_saudi_arabia.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_saudi_arabia.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/57210bcb97f12b9dc9f300477dface910dee1719",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_saudi_arabia.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_saudi_arabia.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/57210bcb97f12b9dc9f300477dface910dee1719",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_saudi_arabia.m3u8"
-    }
-  },
-  {
     "name": "playlist_serbia.m3u8",
     "path": "playlists/playlist_serbia.m3u8",
     "sha": "aac46d29a01924083667f643836aa0248fbd1167",
@@ -1149,22 +1005,6 @@
       "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_spain.m3u8?ref=master",
       "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/935fd7ec0c0cf37e7833746e3085c2d29734e491",
       "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain.m3u8"
-    }
-  },
-  {
-    "name": "playlist_spain_vod.m3u8",
-    "path": "playlists/playlist_spain_vod.m3u8",
-    "sha": "41c2be06bcf969e8e8859c500312021e7a1b6fe3",
-    "size": 19315,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_spain_vod.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain_vod.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/41c2be06bcf969e8e8859c500312021e7a1b6fe3",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_spain_vod.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_spain_vod.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/41c2be06bcf969e8e8859c500312021e7a1b6fe3",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_spain_vod.m3u8"
     }
   },
   {
@@ -1277,22 +1117,6 @@
       "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_ukraine.m3u8?ref=master",
       "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/1cd3cd1b6578fa28cbc46293e0b17964a79b61d4",
       "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_ukraine.m3u8"
-    }
-  },
-  {
-    "name": "playlist_united_arab_emirates.m3u8",
-    "path": "playlists/playlist_united_arab_emirates.m3u8",
-    "sha": "2bb0205ef994ecce6a32ae555851a55358d738ba",
-    "size": 23918,
-    "url": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_united_arab_emirates.m3u8?ref=master",
-    "html_url": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_united_arab_emirates.m3u8",
-    "git_url": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/2bb0205ef994ecce6a32ae555851a55358d738ba",
-    "download_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_united_arab_emirates.m3u8",
-    "type": "file",
-    "_links": {
-      "self": "https://api.github.com/repos/Free-TV/IPTV/contents/playlists/playlist_united_arab_emirates.m3u8?ref=master",
-      "git": "https://api.github.com/repos/Free-TV/IPTV/git/blobs/2bb0205ef994ecce6a32ae555851a55358d738ba",
-      "html": "https://github.com/Free-TV/IPTV/blob/master/playlists/playlist_united_arab_emirates.m3u8"
     }
   },
   {
