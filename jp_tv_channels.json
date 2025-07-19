@@ -315,6 +315,11 @@
     "id": "cs_52"
   },
   {
+  	"name": "ディズニーチャンネル",
+  	"url": "https://new-api.us.jp.eu.org/memfs/0d25214f-df6d-4353-9132-f19debbdce03.m3u8",
+  	"id": "bs_25"
+  },
+  {
     "name": "ジュエリーGSTV",
     "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
     "id": "not_found"
