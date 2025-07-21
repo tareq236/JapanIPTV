@@ -40,6 +40,16 @@
     "id": "td_8"
   },
   {
+    "name": "東京MX2",
+    "url": "https://new-api.us.jp.eu.org/memfs/29834507-cb3c-474f-a5f1-59b5e1fa2b7f.m3u8",
+    "id": "td_9"
+  },
+  {
+    "name": "NHK総合 (大阪)",
+    "url": "https://new-api.us.jp.eu.org/memfs/e2a9da75-a2d3-44f9-8d45-1ff25ab63956.m3u8",
+    "id": "tdks_1"
+  },
+  {
     "name": "MBS毎日放送",
     "url": "https://new-api.us.jp.eu.org/memfs/21508580-ecb7-4e5f-b9a7-c662a068059d.m3u8",
     "id": "tdks_3"
@@ -120,9 +130,9 @@
     "id": "bs_17"
   },
   {
-    "name": "AT-X",
-    "url": "https://new-api.us.jp.eu.org/memfs/8e6d6d7c-19cd-4f5a-95b0-5d3682a7e96c.m3u8",
-    "id": "cs_41"
+    "name": "ディズニーチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/0d25214f-df6d-4353-9132-f19debbdce03.m3u8",
+    "id": "bs_25"
   },
   {
     "name": "キッズステーション",
@@ -130,9 +140,19 @@
     "id": "cs_39"
   },
   {
-    "name": "Dlife",
-    "url": "https://new-api.us.jp.eu.org/memfs/40e561a5-11c8-4cb0-a6a6-1241850bb9c2.m3u8",
-    "id": "cs_28"
+    "name": "カートゥーン",
+    "url": "https://new-api.us.jp.eu.org/memfs/d0117062-1798-443f-90de-d38d2cb8fb58.m3u8",
+    "id": "cs_40"
+  },
+  {
+    "name": "AT-X",
+    "url": "https://new-api.us.jp.eu.org/memfs/8e6d6d7c-19cd-4f5a-95b0-5d3682a7e96c.m3u8",
+    "id": "cs_41"
+  },
+  {
+    "name": "ディズニージュニア",
+    "url": "https://new-api.us.jp.eu.org/memfs/dbafb262-a410-4934-8450-78615a363caa.m3u8",
+    "id": "cs_42"
   },
   {
     "name": "WOWOWプライム",
@@ -155,34 +175,9 @@
     "id": "bs_11"
   },
   {
-    "name": "Actionチャンネル",
-    "url": "https://new-api.us.jp.eu.org/memfs/8a6bf265-cfcd-4bcb-bfb5-0f386aec122c.m3u8",
-    "id": "cs_27"
-  },
-  {
-    "name": "スーパー!ドラマTV",
-    "url": "https://new-api.us.jp.eu.org/memfs/619cbc0a-942d-44c2-bd4e-6203bfdb80de.m3u8",
-    "id": "cs_26"
-  },
-  {
-    "name": "TBSチャンネル1",
-    "url": "https://new-api.us.jp.eu.org/memfs/b152f369-82a9-47f5-ac07-71633d7ae93d.m3u8",
-    "id": "cs_16"
-  },
-  {
-    "name": "TBSチャンネル2",
-    "url": "https://new-api.us.jp.eu.org/memfs/bb0286a8-4b56-43ff-9eae-c6c6f84165ce.m3u8",
-    "id": "cs_17"
-  },
-  {
-    "name": "ファミリー劇場",
-    "url": "https://new-api.us.jp.eu.org/memfs/1bf96c9f-287d-4333-95c2-7e61a970037f.m3u8",
-    "id": "cs_13"
-  },
-  {
-    "name": "時代劇専門チャンネル",
-    "url": "https://new-api.us.jp.eu.org/memfs/22c98893-24a1-4d62-a150-fce4547e860a.m3u8",
-    "id": "cs_12"
+    "name": "日本映画専門チャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/e0078836-f95a-4370-9238-ef0791ab69a0.m3u8",
+    "id": "bs_24"
   },
   {
     "name": "東映チャンネル",
@@ -200,14 +195,49 @@
     "id": "cs_6"
   },
   {
-    "name": "日本映画専門チャンネル",
-    "url": "https://new-api.us.jp.eu.org/memfs/e0078836-f95a-4370-9238-ef0791ab69a0.m3u8",
-    "id": "bs_24"
+    "name": "時代劇専門チャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/22c98893-24a1-4d62-a150-fce4547e860a.m3u8",
+    "id": "cs_12"
+  },
+  {
+    "name": "ファミリー劇場",
+    "url": "https://new-api.us.jp.eu.org/memfs/1bf96c9f-287d-4333-95c2-7e61a970037f.m3u8",
+    "id": "cs_13"
+  },
+  {
+    "name": "ホームドラマチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/879c68e7-ac10-4093-b9c3-f1f80b6cc043.m3u8",
+    "id": "cs_14"
+  },
+  {
+    "name": "TBSチャンネル1",
+    "url": "https://new-api.us.jp.eu.org/memfs/b152f369-82a9-47f5-ac07-71633d7ae93d.m3u8",
+    "id": "cs_16"
+  },
+  {
+    "name": "TBSチャンネル2",
+    "url": "https://new-api.us.jp.eu.org/memfs/bb0286a8-4b56-43ff-9eae-c6c6f84165ce.m3u8",
+    "id": "cs_17"
   },
   {
     "name": "チャンネル銀河",
     "url": "https://new-api.us.jp.eu.org/memfs/9becca40-ea6a-4986-a488-518139f36c61.m3u8",
     "id": "cs_22"
+  },
+  {
+    "name": "スーパー!ドラマTV",
+    "url": "https://new-api.us.jp.eu.org/memfs/619cbc0a-942d-44c2-bd4e-6203bfdb80de.m3u8",
+    "id": "cs_26"
+  },
+  {
+    "name": "Actionチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/8a6bf265-cfcd-4bcb-bfb5-0f386aec122c.m3u8",
+    "id": "cs_27"
+  },
+  {
+    "name": "Dlife",
+    "url": "https://new-api.us.jp.eu.org/memfs/40e561a5-11c8-4cb0-a6a6-1241850bb9c2.m3u8",
+    "id": "cs_28"
   },
   {
     "name": "LaLaTV",
@@ -220,14 +250,14 @@
     "id": "cs_32"
   },
   {
-    "name": "歌謡ポップスチャンネル",
-    "url": "https://new-api.us.jp.eu.org/memfs/684a887f-1273-48d1-ae93-76048012ad20.m3u8",
-    "id": "cs_38"
+    "name": "ディスカバリーチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/89afd372-3f55-4003-9162-7aba6e262abb.m3u8",
+    "id": "cs_43"
   },
   {
-    "name": "Music ON! TV",
-    "url": "https://new-api.us.jp.eu.org/memfs/12ef6d8d-aabd-4392-aaa1-2d4723109ee5.m3u8",
-    "id": "cs_37"
+    "name": "ヒストリーチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/3fdd65e6-7313-4301-a571-cf835e0b68db.m3u8",
+    "id": "cs_45"
   },
   {
     "name": "スペースシャワーTV",
@@ -235,24 +265,29 @@
     "id": "cs_34"
   },
   {
-    "name": "スカイA",
-    "url": "https://new-api.us.jp.eu.org/memfs/18b78787-28e1-4f57-95a8-04765b02401a.m3u8",
-    "id": "cs_7"
+    "name": "MTV",
+    "url": "https://new-api.us.jp.eu.org/memfs/2e0bf60a-7870-4924-8703-ecc910ad99d5.m3u8",
+    "id": "cs_35"
   },
   {
-    "name": "ゴルフネットワーク",
-    "url": "https://new-api.us.jp.eu.org/memfs/1312bf2b-7d19-4217-8ae2-4296d1d847c4.m3u8",
-    "id": "cs_10"
+    "name": "Music ON! TV",
+    "url": "https://new-api.us.jp.eu.org/memfs/12ef6d8d-aabd-4392-aaa1-2d4723109ee5.m3u8",
+    "id": "cs_37"
   },
   {
-    "name": "GAORA",
-    "url": "https://new-api.us.jp.eu.org/memfs/bc9f6dc9-1848-45cc-b966-76ea4f21a8e8.m3u8",
-    "id": "cs_8"
+    "name": "歌謡ポップスチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/684a887f-1273-48d1-ae93-76048012ad20.m3u8",
+    "id": "cs_38"
   },
   {
-    "name": "日テレジータス",
-    "url": "https://new-api.us.jp.eu.org/memfs/596866ea-7fac-4210-8e72-646048d5ca21.m3u8",
-    "id": "cs_9"
+    "name": "ミュージック・ジャパンTV",
+    "url": "https://new-api.us.jp.eu.org/memfs/5b9a032c-6a47-4419-b2f5-3cfcba0fe155.m3u8",
+    "id": "not_found"
+  },
+  {
+    "name": "グリーンチャンネル",
+    "url": "https://new-api.us.jp.eu.org/memfs/f8a1b4e9-e789-4e0f-8a31-09de5e748019.m3u8",
+    "id": "bs_16"
   },
   {
     "name": "Jスポーツ1",
@@ -280,6 +315,26 @@
     "id": "bs_22"
   },
   {
+    "name": "スカイA",
+    "url": "https://new-api.us.jp.eu.org/memfs/18b78787-28e1-4f57-95a8-04765b02401a.m3u8",
+    "id": "cs_7"
+  },
+  {
+    "name": "GAORA",
+    "url": "https://new-api.us.jp.eu.org/memfs/bc9f6dc9-1848-45cc-b966-76ea4f21a8e8.m3u8",
+    "id": "cs_8"
+  },
+  {
+    "name": "日テレジータス",
+    "url": "https://new-api.us.jp.eu.org/memfs/596866ea-7fac-4210-8e72-646048d5ca21.m3u8",
+    "id": "cs_9"
+  },
+  {
+    "name": "ゴルフネットワーク",
+    "url": "https://new-api.us.jp.eu.org/memfs/1312bf2b-7d19-4217-8ae2-4296d1d847c4.m3u8",
+    "id": "cs_10"
+  },
+  {
     "name": "囲碁・将棋チャンネル",
     "url": "https://new-api.us.jp.eu.org/memfs/471d5ed9-0707-48cc-a8da-e6dad8be872f.m3u8",
     "id": "cs_51"
@@ -295,13 +350,38 @@
     "id": "cs_47"
   },
   {
-    "name": "CNN J",
+    "name": "TBS NEWS",
+    "url": "https://new-api.us.jp.eu.org/memfs/b90bcd47-cb92-4260-9b25-5e4f779c30f4.m3u8",
+    "id": "cs_48"
+  },
+  {
+    "name": "CNN Japan",
     "url": "https://new-api.us.jp.eu.org/memfs/92104802-2280-481a-8b2b-8a3e5f5cb3e0.m3u8",
     "id": "cs_50"
   },
   {
+    "name": "CNN Global",
+    "url": "https://new-api.us.jp.eu.org/memfs/6cef2df4-5a8c-4783-aaf8-146d2fa60f00.m3u8",
+    "id": "not_found"
+  },
+  {
+    "name": "BBC Global",
+    "url": "https://new-api.us.jp.eu.org/memfs/cb33f104-ad71-4e4d-9a74-52964d54b17d.m3u8",
+    "id": "not_found"
+  },
+  {
     "name": "お笑い",
     "url": "https://new-api.us.jp.eu.org/memfs/cd62732d-3583-42cf-a498-f4c4bf22f9d7.m3u8",
+    "id": "not_found"
+  },
+  {
+    "name": "NHK World Japan",
+    "url": "https://new-api.us.jp.eu.org/memfs/f147d819-ceb6-4d77-ae10-d9566f80cf4e.m3u8",
+    "id": "not_found"
+  },
+  {
+    "name": "アイドル専門チャンネルPigoo",
+    "url": "https://new-api.us.jp.eu.org/memfs/6e518bef-a107-468e-85c7-1062712f7bb6.m3u8",
     "id": "not_found"
   },
   {
@@ -315,11 +395,6 @@
     "id": "cs_52"
   },
   {
-  	"name": "ディズニーチャンネル",
-  	"url": "https://new-api.us.jp.eu.org/memfs/0d25214f-df6d-4353-9132-f19debbdce03.m3u8",
-  	"id": "bs_25"
-  },
-  {
     "name": "ジュエリーGSTV",
     "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
     "id": "not_found"
@@ -327,6 +402,21 @@
   {
     "name": "代替 テレ朝系",
     "url": "https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0",
+    "id": "not_found"
+  },
+  {
+    "name": "代替 TBS系",
+    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY",
+    "id": "not_found"
+  },
+  {
+    "name": "代替 テレ東系",
+    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0",
+    "id": "not_found"
+  },
+  {
+    "name": "代替 フジテレビ系",
+    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM",
     "id": "not_found"
   }
 ]
