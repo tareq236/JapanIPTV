@@ -2,26 +2,31 @@
   {
     "name": "NHK総合",
     "url": "https://mt01.utako.moe/NHK_G/index.m3u8",
+    "url_free_tv": "",
     "id": "td_1"
   },
   {
     "name": "NHK教育",
     "url": "https://mt01.utako.moe/NHK_E/index.m3u8",
+    "url_free_tv": "",
     "id": "td_2"
   },
   {
     "name": "日本テレビ",
-    "url": "https://new-api.us.jp.eu.org/memfs/273ece55-df89-4242-90fb-7940c2685ae1.m3u8",
+    "url": "",
+    "url_free_tv": "https://epg.freejptv.com/ph.php?&isp=1&id=hdgd01",
     "id": "td_3"
   },
   {
     "name": "テレビ朝日",
     "url": "https://new-api.us.jp.eu.org/memfs/008eb7e6-a6eb-4380-8749-5e96bdeacc56.m3u8",
+    "url_free_tv": "",
     "id": "td_4"
   },
   {
     "name": "TBS",
     "url": "https://new-api.us.jp.eu.org/memfs/c89988a1-3fc4-4451-98a3-277b5b95c25d.m3u8",
+    "url_free_tv": "",
     "id": "td_5"
   },
   {
