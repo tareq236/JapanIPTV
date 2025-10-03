@@ -516,5 +516,19 @@
     "url_free_tv": "",
     "channel_logo": "",
     "id": null
-  }
-]
+ },
+  {
+ "name": "TEST",
+    "url": "",
+    "url_free_tv": "https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",
+    "channel_logo": "https://ca01.utako.moe/fighting_tv/index.m3u8",
+    "id": "td_16"
+ },
+  {
+ "name": "TEST",
+    "url": "",
+    "url_free_tv": "https://ca01.utako.moe/fighting_tv/index.m3u8",
+    "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",
+    "id": "td_16"
+ },
+  {
