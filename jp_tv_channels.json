@@ -242,7 +242,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs25",
     "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
-    "id": null
+    "id": 10704
   },
   {
     "name": "ディズニーチャンネル",
@@ -256,35 +256,35 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=2&id=bs31",
     "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",
-    "id": null
+    "id": 10701
   },
   {
     "name": "時代劇専門チャンネル",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs04",
     "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
-    "id": null
+    "id": 10727
   },
   {
     "name": "東映チャンネル",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs27",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",
-    "id": null
+    "id": 10711
   },
   {
     "name": "衛星劇場",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs22",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
-    "id": null
+    "id": 10771
   },
   {
     "name": "ファミリー劇場",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs20",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",
-    "id": null
+    "id": 10788
   },
   {
     "name": "ムービープラス ",
@@ -312,7 +312,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs26",
     "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
-    "id": null
+    "id": 10713
   },
   {
     "name": "スカイA",
@@ -326,7 +326,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs17",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",
-    "id": null
+    "id": 10772
   },
   {
     "name": "ゴルフ ネットワーク",
@@ -375,35 +375,35 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs13",
     "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
-    "id": null
+    "id": 10731
   },
   {
     "name": "MTV",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs18",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
-    "id": null
+    "id": 10740
   },
   {
     "name": "女性チャンネル♪LaLa TV",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs19",
     "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
-    "id": null
+    "id": 10796
   },
   {
     "name": "宝塚歌劇専門チャンネル",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=2&id=cs28",
     "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
-    "id": null
+    "id": 10698
   },
   {
     "name": "キッズステーション ",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs07",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",
-    "id": null
+    "id": 10795
   },
   {
     "name": "カートゥーン ネットワーク",
@@ -417,7 +417,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs10",
     "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
-    "id": null
+    "id": 10725
   },
   {
     "name": "ディズニージュニア",
@@ -431,7 +431,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs08",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
-    "id": null
+    "id": 10697
   },
   {
     "name": "アニマルプラネット",
@@ -445,14 +445,14 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs09",
     "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg",
-    "id": null
+    "id": 10729
   },
   {
     "name": "CNNj",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs16",
     "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",
-    "id": null
+    "id": 10798
   },
   {
     "name": "BBC News",
@@ -466,21 +466,21 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs11",
     "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
-    "id": null
+    "id": 10693
   },
   {
     "name": "QVCジャパン",
     "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
     "url_free_tv": "",
     "channel_logo": "",
-    "id": null
+    "id": 10777
   },
   {
     "name": "ショップチャンネル",
     "url": "https://stream3.shopch.jp/HLS/master.m3u8",
     "url_free_tv": "",
     "channel_logo": "",
-    "id": null
+    "id": 10724
   },
   {
     "name": "ジュエリーGSTV",
