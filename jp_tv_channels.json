@@ -74,7 +74,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=gx02",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",
-    "id": null
+    "id": 368864
   },
   {
     "name": "関西TV",
@@ -137,7 +137,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs05",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
-    "id": null
+    "id": 368869
   },
   {
     "name": "BS フジ",
@@ -158,28 +158,28 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs12",
     "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
-    "id": null
+    "id": 10786
   },
   {
     "name": "WOWOW シネマ",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs07",
     "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",
-    "id": null
+    "id": 10789
   },
   {
     "name": "WOWOW ライブ",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs20",
     "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png",
-    "id": null
+    "id": 10819
   },
   {
     "name": "BS10スターチャンネル",
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs08",
     "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",
-    "id": 408713
+    "id": 10812
   },
   {
     "name": "Jスポーツ1",
@@ -221,7 +221,7 @@
     "url": "",
     "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs15",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",
-    "id": 409429
+    "id": 10744
   },
   {
     "name": "日本映画専門チャンネル",
