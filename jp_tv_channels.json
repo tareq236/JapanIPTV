@@ -1,7 +1,7 @@
 [
   {
     "name": "NHK G",
-    "url": "https://mt01.utako.moe/NHK_G/index.m3u8",
+    "url": "https://nhk4.mov3.co/hls/nhk.m3u8",
     "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
     "category": "terrestrial",
