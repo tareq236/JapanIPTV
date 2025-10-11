@@ -17,8 +17,8 @@
   },
   {
     "name": "日本TV",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd03",
+    "url": "https://nhk4.mov3.co/hls/nhk.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",
     "category": "terrestrial",
     "id": 10752
