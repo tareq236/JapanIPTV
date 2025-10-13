@@ -1,8 +1,8 @@
 [
   {
     "name": "NHK G",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd01",
+    "url": "https://mt01.utako.moe/NHK_G/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
     "category": "terrestrial",
     "id": 365911
@@ -17,48 +17,48 @@
   },
   {
     "name": "日本TV",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd03",
+    "url": "https://mt01.utako.moe/Nippon_TV/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",
     "category": "terrestrial",
     "id": 10752
   },
   {
     "name": "TBS",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd04",
+    "url": "https://mt01.utako.moe/TBS/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",
     "category": "terrestrial",
     "id": 10693
   },
   {
     "name": "フジテレビ",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd05",
+    "url": "https://mt01.utako.moe/Fuji_TV/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",
     "category": "terrestrial",
     "id": 10816
   },
   {
     "name": "テレビ朝日",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06",
+    "url": "https://mt01.utako.moe/TV_Asahi/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
     "category": "terrestrial",
     "id": 368864
   },
   {
     "name": "テレビ東京",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd07",
+    "url": "https://mt01.utako.moe/TV_Tokyo/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
     "category": "terrestrial",
     "id": 10736
   },
   {
     "name": "TOKYO MX1",
-    "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd08",
+    "url": "https://mt01.utako.moe/Tokyo_MX1/index.m3u8",
+    "url_free_tv": "",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
     "category": "terrestrial",
     "id": 10769
