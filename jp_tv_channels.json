@@ -66,7 +66,7 @@
   {
     "name": "NHK G Osaka",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=gx06",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
     "category": "terrestrial",
     "id": 365911
@@ -274,7 +274,7 @@
   {
     "name": "釣りビジョン",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs25",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=bs25",
     "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
     "category": "bs",
     "id": 10704
@@ -282,7 +282,7 @@
   {
     "name": "ディズニーチャンネル",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=bs24",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=bs24",
     "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",
     "category": "bs",
     "id": null
@@ -290,7 +290,7 @@
   {
     "name": "JCOM BS",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=2&id=bs31",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=2&id=bs31",
     "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",
     "category": "bs",
     "id": 10701
@@ -298,7 +298,7 @@
   {
     "name": "時代劇専門チャンネル",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs04",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs04",
     "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
     "category": "cs",
     "id": 10727
@@ -314,7 +314,7 @@
   {
     "name": "衛星劇場",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs22",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs22",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
     "category": "cs",
     "id": 10771
@@ -330,7 +330,7 @@
   {
     "name": "ムービープラス ",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs14",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs14",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
     "category": "cs",
     "id": null
@@ -378,7 +378,7 @@
   {
     "name": "ゴルフ ネットワーク",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs03",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs03",
     "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
     "category": "",
     "id": 10806
@@ -442,7 +442,7 @@
   {
     "name": "女性チャンネル♪LaLa TV",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs19",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs19",
     "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
     "category": "cs",
     "id": 10796
@@ -450,7 +450,7 @@
   {
     "name": "宝塚歌劇専門チャンネル",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=2&id=cs28",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=2&id=cs28",
     "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
     "category": "cs",
     "id": 10698
@@ -458,7 +458,7 @@
   {
     "name": "キッズステーション ",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs07",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs07",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",
     "category": "cs",
     "id": 10795
@@ -474,7 +474,7 @@
   {
     "name": "ナショナル ジオグラフィック",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs10",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs10",
     "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
     "category": "cs",
     "id": 10725
@@ -482,7 +482,7 @@
   {
     "name": "ディズニージュニア",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs23",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
     "category": "",
     "id": 10720
@@ -490,7 +490,7 @@
   {
     "name": "ディスカバリーチャンネル",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs08",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs08",
     "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
     "category": "cs",
     "id": 10697
@@ -498,7 +498,7 @@
   {
     "name": "アニマルプラネット",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs24",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs24",
     "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg",
     "category": "cs",
     "id": 10742
@@ -506,7 +506,7 @@
   {
     "name": "ヒストリーチャンネル",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs09",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs09",
     "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg",
     "category": "cs",
     "id": 10729
@@ -514,7 +514,7 @@
   {
     "name": "CNNj",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs16",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16",
     "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",
     "category": "cs",
     "id": 10798
@@ -522,7 +522,7 @@
   {
     "name": "BBC News",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs15",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15",
     "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",
     "category": "",
     "id": 10787
@@ -530,7 +530,7 @@
   {
     "name": "TBS News",
     "url": "",
-    "url_free_tv": "https://proxy.utako.moe/ph.php?&isp=1&id=cs11",
+    "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11",
     "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
     "category": "cs",
     "id": 10693
