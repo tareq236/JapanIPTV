@@ -1,594 +1,594 @@
 [
-  {
-    "name": "NHK G",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
-    "category": "terrestrial",
-    "id": 365911
-  },
-  {
-    "name": "NHK E",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
-    "category": "terrestrial",
-    "id": 365912
-  },
-  {
-    "name": "日本TV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",
-    "category": "terrestrial",
-    "id": 10752
-  },
-  {
-    "name": "TBS",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd04",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",
-    "category": "terrestrial",
-    "id": 10693
-  },
-  {
-    "name": "フジテレビ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",
-    "category": "terrestrial",
-    "id": 10816
-  },
-  {
-    "name": "テレビ朝日",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
-    "category": "terrestrial",
-    "id": 368864
-  },
-  {
-    "name": "テレビ東京",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
-    "category": "terrestrial",
-    "id": 10736
-  },
-  {
-    "name": "TOKYO MX1",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
-    "category": "terrestrial",
-    "id": 10769
-  },
-  {
-    "name": "NHK G Osaka",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
-    "category": "terrestrial",
-    "id": 365911
-  },
-  {
-    "name": "毎日放送",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",
-    "category": "terrestrial",
-    "id": null
-  },
-  {
-    "name": "ABCTV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx02",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",
-    "category": "terrestrial",
-    "id": 368864
-  },
-  {
-    "name": "関西TV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",
-    "category": "terrestrial",
-    "id": null
-  },
-  {
-    "name": "読売テレビ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",
-    "category": "terrestrial",
-    "id": null
-  },
-  {
-    "name": "テレビ大阪",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",
-    "category": "terrestrial",
-    "id": null
-  },
-  {
-    "name": "SUN",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",
-    "category": "terrestrial",
-    "id": null
-  },
-  {
-    "name": "NHK BS",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",
-    "category": "bs",
-    "id": 365923
-  },
-  {
-    "name": "BS　日本テレビ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",
-    "category": "bs",
-    "id": 368867
-  },
-  {
-    "name": "BS 朝日",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs03",
-    "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",
-    "category": "bs",
-    "id": 10803
-  },
-  {
-    "name": "BS TBS",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs04",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",
-    "category": "bs",
-    "id": 365927
-  },
-  {
-    "name": "BS TV東京",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs05",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
-    "category": "bs",
-    "id": 368869
-  },
-  {
-    "name": "BS フジ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs06",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",
-    "category": "bs",
-    "id": 10790
-  },
-  {
-    "name": "NHK BS4K",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",
-    "category": "bs",
-    "id": 10770
-  },
-  {
-    "name": "WOWOW プライム",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
-    "category": "bs",
-    "id": 10786
-  },
-  {
-    "name": "WOWOW シネマ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs07",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",
-    "category": "bs",
-    "id": 10789
-  },
-  {
-    "name": "WOWOW ライブ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png",
-    "category": "bs",
-    "id": 10819
-  },
-  {
-    "name": "BS10スターチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",
-    "category": "bs",
-    "id": 10812
-  },
-  {
-    "name": "Jスポーツ1",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18",
-    "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",
-    "category": "bs",
-    "id": 10761
-  },
-  {
-    "name": "Jスポーツ2",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs19",
-    "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",
-    "category": "bs",
-    "id": 10768
-  },
-  {
-    "name": "Jスポーツ3",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs21",
-    "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",
-    "category": "bs",
-    "id": 10822
-  },
-  {
-    "name": "Jスポーツ4",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22",
-    "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",
-    "category": "bs",
-    "id": 10829
-  },
-  {
-    "name": "グリーンチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",
-    "category": "bs",
-    "id": 365938
-  },
-  {
-    "name": "アニマックス",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",
-    "category": "bs",
-    "id": 10744
-  },
-  {
-    "name": "日本映画専門チャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",
-    "category": "bs",
-    "id": 10739
-  },
-  {
-    "name": "スカイA",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "釣りビジョン",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
-    "category": "bs",
-    "id": 10704
-  },
-  {
-    "name": "ディズニーチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",
-    "category": "bs",
-    "id": null
-  },
-  {
-    "name": "JCOM BS",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31",
-    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",
-    "category": "bs",
-    "id": 10701
-  },
-  {
-    "name": "時代劇専門チャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
-    "category": "cs",
-    "id": 10727
-  },
-  {
-    "name": "東映チャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",
-    "category": "cs",
-    "id": 10711
-  },
-  {
-    "name": "衛星劇場",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
-    "category": "cs",
-    "id": 10771
-  },
-  {
-    "name": "ファミリー劇場",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",
-    "category": "cs",
-    "id": 10788
-  },
-  {
-    "name": "ムービープラス ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "ホームドラマチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "旅チャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "フジテレビNEXT",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
-    "category": "cs",
-    "id": 10713
-  },
-  {
-    "name": "スカイA",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "GAORA SPORTS",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",
-    "category": "cs",
-    "id": 10772
-  },
-  {
-    "name": "ゴルフ ネットワーク",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
-    "category": "",
-    "id": 10806
-  },
-  {
-    "name": "日テレジータス",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs02",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "麻雀",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",
-    "category": "cs",
-    "id": null
-  },
-  {
-    "name": "チャンネル銀河",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",
-    "category": "cs",
-    "id": 10712
-  },
-  {
-    "name": "スペースシャワーTV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
-    "category": "bs",
-    "id": null
-  },
-  {
-    "name": "ミュージック・ジャパンTV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",
-    "category": "cs",
-    "id": 10695
-  },
-  {
-    "name": "歌謡ポップスチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
-    "category": "cs",
-    "id": 10731
-  },
-  {
-    "name": "MTV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18",
-    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
-    "category": "cs",
-    "id": 10740
-  },
-  {
-    "name": "女性チャンネル♪LaLa TV",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
-    "category": "cs",
-    "id": 10796
-  },
-  {
-    "name": "宝塚歌劇専門チャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
-    "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
-    "category": "cs",
-    "id": 10698
-  },
-  {
-    "name": "キッズステーション ",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",
-    "category": "cs",
-    "id": 10795
-  },
-  {
-    "name": "カートゥーン ネットワーク",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg",
-    "category": "cs",
-    "id": 10706
-  },
-  {
-    "name": "ナショナル ジオグラフィック",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
-    "category": "cs",
-    "id": 10725
-  },
-  {
-    "name": "ディズニージュニア",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
-    "category": "",
-    "id": 10720
-  },
-  {
-    "name": "ディスカバリーチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
-    "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
-    "category": "cs",
-    "id": 10697
-  },
-  {
-    "name": "アニマルプラネット",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg",
-    "category": "cs",
-    "id": 10742
-  },
-  {
-    "name": "ヒストリーチャンネル",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg",
-    "category": "cs",
-    "id": 10729
-  },
-  {
-    "name": "CNNj",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",
-    "category": "cs",
-    "id": 10798
-  },
-  {
-    "name": "BBC News",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15",
-    "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",
-    "category": "",
-    "id": 10787
-  },
-  {
-    "name": "TBS News",
-    "url": "",
-    "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11",
-    "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
-    "category": "cs",
-    "id": 10693
-  },
-  {
-    "name": "QVCジャパン",
-    "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": 10777
-  },
-  {
-    "name": "ショップチャンネル",
-    "url": "https://stream3.shopch.jp/HLS/master.m3u8",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": 10724
-  },
-  {
-    "name": "ジュエリーGSTV",
-    "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": null
-  },
-  {
-    "name": "代替 テレ朝系",
-    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": null
-  },
-  {
-    "name": "代替 TBS系",
-    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": null
-  },
-  {
-    "name": "代替 テレ東系",
-    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": null
-  },
-  {
-    "name": "代替 フジテレビ系",
-    "url": "https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM",
-    "url_free_tv": "",
-    "channel_logo": "",
-    "category": "",
-    "id": null
-  }
+    {
+        "name": "NHK G",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+        "id": 365911
+    },
+    {
+        "name": "NHK E",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
+        "category": "terrestrial",
+        "id": 365912
+    },
+    {
+        "name": "日本TV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",
+        "category": "terrestrial",
+        "id": 10752
+    },
+    {
+        "name": "TBS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",
+        "category": "terrestrial",
+        "id": 10693
+    },
+    {
+        "name": "フジテレビ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",
+        "category": "terrestrial",
+        "id": 10816
+    },
+    {
+        "name": "テレビ朝日",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
+        "category": "terrestrial",
+        "id": 368864
+    },
+    {
+        "name": "テレビ東京",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
+        "category": "terrestrial",
+        "id": 10736
+    },
+    {
+        "name": "TOKYO MX1",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
+        "category": "terrestrial",
+        "id": 10769
+    },
+    {
+        "name": "NHK G Osaka",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+        "category": "terrestrial",
+        "id": 365911
+    },
+    {
+        "name": "毎日放送",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",
+        "category": "terrestrial",
+        "id": null
+    },
+    {
+        "name": "ABCTV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",
+        "category": "terrestrial",
+        "id": 368864
+    },
+    {
+        "name": "関西TV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",
+        "category": "terrestrial",
+        "id": null
+    },
+    {
+        "name": "読売テレビ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",
+        "category": "terrestrial",
+        "id": null
+    },
+    {
+        "name": "テレビ大阪",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",
+        "category": "terrestrial",
+        "id": null
+    },
+    {
+        "name": "SUN",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",
+        "category": "terrestrial",
+        "id": null
+    },
+    {
+        "name": "NHK BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",
+        "category": "bs",
+        "id": 365923
+    },
+    {
+        "name": "BS　日本テレビ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",
+        "category": "bs",
+        "id": 368867
+    },
+    {
+        "name": "BS 朝日",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs03",
+        "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",
+        "category": "bs",
+        "id": 10803
+    },
+    {
+        "name": "BS TBS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs04",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",
+        "category": "bs",
+        "id": 365927
+    },
+    {
+        "name": "BS TV東京",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs05",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
+        "category": "bs",
+        "id": 368869
+    },
+    {
+        "name": "BS フジ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",
+        "category": "bs",
+        "id": 10790
+    },
+    {
+        "name": "NHK BS4K",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",
+        "category": "bs",
+        "id": 10770
+    },
+    {
+        "name": "WOWOW プライム",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
+        "category": "bs",
+        "id": 10786
+    },
+    {
+        "name": "WOWOW シネマ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs07",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",
+        "category": "bs",
+        "id": 10789
+    },
+    {
+        "name": "WOWOW ライブ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png",
+        "category": "bs",
+        "id": 10819
+    },
+    {
+        "name": "BS10スターチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",
+        "category": "bs",
+        "id": 10812
+    },
+    {
+        "name": "Jスポーツ1",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",
+        "category": "bs",
+        "id": 10761
+    },
+    {
+        "name": "Jスポーツ2",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs19",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",
+        "category": "bs",
+        "id": 10768
+    },
+    {
+        "name": "Jスポーツ3",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs21",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",
+        "category": "bs",
+        "id": 10822
+    },
+    {
+        "name": "Jスポーツ4",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",
+        "category": "bs",
+        "id": 10829
+    },
+    {
+        "name": "グリーンチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",
+        "category": "bs",
+        "id": 365938
+    },
+    {
+        "name": "アニマックス",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",
+        "category": "bs",
+        "id": 10744
+    },
+    {
+        "name": "日本映画専門チャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",
+        "category": "bs",
+        "id": 10739
+    },
+    {
+        "name": "スカイA",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "釣りビジョン",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
+        "category": "bs",
+        "id": 10704
+    },
+    {
+        "name": "ディズニーチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",
+        "category": "bs",
+        "id": null
+    },
+    {
+        "name": "JCOM BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",
+        "category": "bs",
+        "id": 10701
+    },
+    {
+        "name": "時代劇専門チャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
+        "category": "cs",
+        "id": 10727
+    },
+    {
+        "name": "東映チャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",
+        "category": "cs",
+        "id": 10711
+    },
+    {
+        "name": "衛星劇場",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
+        "category": "cs",
+        "id": 10771
+    },
+    {
+        "name": "ファミリー劇場",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",
+        "category": "cs",
+        "id": 10788
+    },
+    {
+        "name": "ムービープラス ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "ホームドラマチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "旅チャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "フジテレビNEXT",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
+        "category": "cs",
+        "id": 10713
+    },
+    {
+        "name": "スカイA",
+        "url": "",
+        "url_free_tv": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "GAORA SPORTS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",
+        "category": "cs",
+        "id": 10772
+    },
+    {
+        "name": "ゴルフ ネットワーク",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
+        "category": "",
+        "id": 10806
+    },
+    {
+        "name": "日テレジータス",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs02",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "麻雀",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",
+        "category": "cs",
+        "id": null
+    },
+    {
+        "name": "チャンネル銀河",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",
+        "category": "cs",
+        "id": 10712
+    },
+    {
+        "name": "スペースシャワーTV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
+        "category": "bs",
+        "id": null
+    },
+    {
+        "name": "ミュージック・ジャパンTV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",
+        "category": "cs",
+        "id": 10695
+    },
+    {
+        "name": "歌謡ポップスチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
+        "category": "cs",
+        "id": 10731
+    },
+    {
+        "name": "MTV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png",
+        "category": "cs",
+        "id": 10740
+    },
+    {
+        "name": "女性チャンネル♪LaLa TV",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
+        "category": "cs",
+        "id": 10796
+    },
+    {
+        "name": "宝塚歌劇専門チャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
+        "category": "cs",
+        "id": 10698
+    },
+    {
+        "name": "キッズステーション ",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",
+        "category": "cs",
+        "id": 10795
+    },
+    {
+        "name": "カートゥーン ネットワーク",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg",
+        "category": "cs",
+        "id": 10706
+    },
+    {
+        "name": "ナショナル ジオグラフィック",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
+        "category": "cs",
+        "id": 10725
+    },
+    {
+        "name": "ディズニージュニア",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
+        "category": "",
+        "id": 10720
+    },
+    {
+        "name": "ディスカバリーチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
+        "category": "cs",
+        "id": 10697
+    },
+    {
+        "name": "アニマルプラネット",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg",
+        "category": "cs",
+        "id": 10742
+    },
+    {
+        "name": "ヒストリーチャンネル",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg",
+        "category": "cs",
+        "id": 10729
+    },
+    {
+        "name": "CNNj",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg",
+        "category": "cs",
+        "id": 10798
+    },
+    {
+        "name": "BBC News",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15",
+        "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",
+        "category": "",
+        "id": 10787
+    },
+    {
+        "name": "TBS News",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
+        "category": "cs",
+        "id": 10693
+    },
+    {
+        "name": "QVCジャパン",
+        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": 10777
+    },
+    {
+        "name": "ショップチャンネル",
+        "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": 10724
+    },
+    {
+        "name": "ジュエリーGSTV",
+        "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": null
+    },
+    {
+        "name": "代替 テレ朝系",
+        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": null
+    },
+    {
+        "name": "代替 TBS系",
+        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": null
+    },
+    {
+        "name": "代替 テレ東系",
+        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": null
+    },
+    {
+        "name": "代替 フジテレビ系",
+        "url": "https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM",
+        "url_free_tv": "",
+        "channel_logo": "",
+        "category": "",
+        "id": null
+    }
 ]
