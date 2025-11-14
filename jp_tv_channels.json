@@ -1093,13 +1093,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg"
     },
     {
-        "name": "Animax (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png"
-    },
-    {
         "name": "Nihon Eiga Senmon (Primehome)",
         "category": "BS",
         "url": "",
