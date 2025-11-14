@@ -70,14 +70,6 @@
         "id": 10771
     },
     {
-        "name": "旅チャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
-        "category": "cs",
-        "id": null
-    },
-    {
         "name": "ゴルフ ネットワーク",
         "category": "CS",
         "url": "",
