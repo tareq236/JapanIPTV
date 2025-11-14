@@ -1095,5 +1095,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08",
         "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png"
+    },
+    {
+        "name": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "JSport 1 (Primehome)",
+        "channel_logo": "\"https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg"
     }
 ]
