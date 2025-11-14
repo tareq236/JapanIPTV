@@ -752,5 +752,12 @@
         "url": "",
         "url_free_tv": "Fuji TV (Primehome)",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
+    },
+    {
+        "name": "TV Asahi (NSFW) (Primehome)",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png"
     }
 ]
