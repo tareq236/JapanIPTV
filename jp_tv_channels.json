@@ -622,7 +622,7 @@
     },
     {
         "name": "TBS",
-        "category": "",
+        "category": "地上波",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/TBS/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png"
