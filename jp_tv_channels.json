@@ -1081,5 +1081,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs07",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"
+    },
+    {
+        "name": "WOWOW Live (Primehome)",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png"
     }
 ]
