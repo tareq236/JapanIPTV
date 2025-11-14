@@ -153,10 +153,10 @@
     },
     {
         "name": "BS TV東京",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs05",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
-        "category": "bs",
         "id": 368869
     },
     {
