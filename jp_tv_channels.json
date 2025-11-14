@@ -1340,5 +1340,12 @@
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/fuji_one/index.m3u8",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png"
+    },
+    {
+        "name": "Fuji TV TWO",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/fuji_two/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png"
     }
 ]
