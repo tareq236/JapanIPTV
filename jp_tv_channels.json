@@ -89,11 +89,10 @@
     },
     {
         "name": "関西TV",
+        "category": "地上波",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",
-        "category": "terrestrial",
-        "id": null
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     },
     {
         "name": "読売テレビ",
