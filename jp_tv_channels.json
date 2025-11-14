@@ -1025,5 +1025,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png"
+    },
+    {
+        "name": "BS NTV (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     }
 ]
