@@ -453,13 +453,6 @@
         "id": null
     },
     {
-        "name": "NHK BS",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png\",NHK BS (Primehome)"
-    },
-    {
         "name": "NHK G",
         "category": "地上波",
         "url": "",
