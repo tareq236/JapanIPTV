@@ -181,14 +181,6 @@
         "id": 10712
     },
     {
-        "name": "スペースシャワーTV",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",
-        "category": "bs",
-        "id": null
-    },
-    {
         "name": "ミュージック・ジャパンTV",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
