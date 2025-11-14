@@ -787,5 +787,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/mbs/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png"
+    },
+    {
+        "name": "ABC",
+        "category": "地上波",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/abc/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png"
     }
 ]
