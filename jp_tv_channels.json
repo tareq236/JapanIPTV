@@ -509,14 +509,6 @@
         "id": 10798
     },
     {
-        "name": "BBC News",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15",
-        "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",
-        "id": 10787
-    },
-    {
         "name": "TBS News",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11",
