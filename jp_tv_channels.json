@@ -38,14 +38,6 @@
         "id": 10727
     },
     {
-        "name": "東映チャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",
-        "category": "cs",
-        "id": 10711
-    },
-    {
         "name": "衛星劇場",
         "category": "CS",
         "url": "",
