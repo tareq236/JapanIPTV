@@ -822,5 +822,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/kbs/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png"
+    },
+    {
+        "name": "SUN",
+        "category": "地上波",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/suntv/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png"
     }
 ]
