@@ -201,7 +201,7 @@
     },
     {
         "name": "TOKYO MX1",
-        "category": "",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/Tokyo_MX1/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
