@@ -209,10 +209,10 @@
     },
     {
         "name": "Jスポーツ1",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18",
         "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",
-        "category": "bs",
         "id": 10761
     },
     {
