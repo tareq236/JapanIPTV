@@ -810,13 +810,6 @@
         "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg"
     },
     {
-        "name": "NHK BS4K (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png"
-    },
-    {
         "name": "WOWOW Prime (Primehome)",
         "category": "BS",
         "url": "",
