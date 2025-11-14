@@ -1266,13 +1266,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
     },
     {
-        "name": "Fuji TV Next (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png"
-    },
-    {
         "name": "Sky A  (Primehome)",
         "category": "CS",
         "url": "",
