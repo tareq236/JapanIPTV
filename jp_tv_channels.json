@@ -313,8 +313,8 @@
     {
         "name": "AT-X",
         "category": "CS",
-        "url": "https://nl00.utako.moe/AT-X/index.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/AT-X/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png"
     },
     {
