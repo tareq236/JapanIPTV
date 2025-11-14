@@ -969,5 +969,12 @@
         "url": "",
         "url_free_tv": "ttps://nl00.utako.moe/js1/index.m3u8",
         "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg"
+    },
+    {
+        "name": "JSport 2",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/js2/index.m3u8",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg"
     }
 ]
