@@ -520,13 +520,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
     },
     {
-        "name": "NTV (Primehome)",
-        "category": "地上波",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"
-    },
-    {
         "name": "TBS (Primehome)",
         "category": "",
         "url": "",
