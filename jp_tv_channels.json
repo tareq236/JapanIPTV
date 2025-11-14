@@ -1032,5 +1032,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
+    },
+    {
+        "name": "BS Asahi (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs0",
+        "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg"
     }
 ]
