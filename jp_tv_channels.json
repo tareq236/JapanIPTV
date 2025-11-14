@@ -289,10 +289,10 @@
     },
     {
         "name": "JCOM BS",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31",
         "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",
-        "category": "bs",
         "id": 10701
     },
     {
