@@ -110,14 +110,6 @@
         "id": null
     },
     {
-        "name": "NHK BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",
-        "category": "bs",
-        "id": 365923
-    },
-    {
         "name": "NHK BS4K",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01",
