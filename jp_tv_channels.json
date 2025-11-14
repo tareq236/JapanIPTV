@@ -878,5 +878,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png"
+    },
+    {
+        "name": "NHK BS",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/NHK_BS/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png"
     }
 ]
