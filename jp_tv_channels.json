@@ -688,13 +688,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
     },
     {
-        "name": "Fuji TV HD (Primehome)",
-        "category": "地上波",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
-    },
-    {
         "name": "TV Asahi HD (Primehome)",
         "category": "",
         "url": "",
