@@ -341,14 +341,6 @@
         "id": 10729
     },
     {
-        "name": "TBS News",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
-        "category": "cs",
-        "id": 10693
-    },
-    {
         "name": "QVCジャパン",
         "category": "BS",
         "url": "",
