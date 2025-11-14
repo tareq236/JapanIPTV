@@ -995,13 +995,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
     },
     {
-        "name": "Sky A  (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png"
-    },
-    {
         "name": "Space Shower TV (Primehome)",
         "category": "CS",
         "url": "",
