@@ -1319,5 +1319,12 @@
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/tbsch2/index.m3u8",
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png"
+    },
+    {
+        "name": "TV Asahi Channel 1",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/tbsch2/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png"
     }
 ]
