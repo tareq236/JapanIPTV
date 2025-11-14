@@ -764,13 +764,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg"
     },
     {
-        "name": "Space Shower TV",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/spaceshower/index.m3u8",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg"
-    },
-    {
         "name": "MTV",
         "category": "CS",
         "url": "",
