@@ -981,13 +981,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
     },
     {
-        "name": "Space Shower TV (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png"
-    },
-    {
         "name": "Music Japan TV (Primehome)",
         "category": "CS",
         "url": "",
