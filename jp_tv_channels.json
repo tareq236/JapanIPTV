@@ -621,13 +621,6 @@
         "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg"
     },
     {
-        "name": "WOWOW Prime (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"
-    },
-    {
         "name": "Gaora Sports",
         "category": "CS",
         "url": "",
