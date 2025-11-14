@@ -1066,13 +1066,6 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png"
     },
     {
-        "name": "National Geographic Japan (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg"
-    },
-    {
         "name": "TBS News (Primehome)",
         "category": "CS",
         "url": "",
