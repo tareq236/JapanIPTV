@@ -1599,5 +1599,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png"
+    },
+    {
+        "name": "Discovery Channel (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png"
     }
 ]
