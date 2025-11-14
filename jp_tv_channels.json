@@ -927,5 +927,12 @@
         "url": "",
         "url_free_tv": "BS11",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png"
+    },
+    {
+        "name": "NHK BS4K",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/bsp4k/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png"
     }
 ]
