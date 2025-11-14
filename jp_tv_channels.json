@@ -1452,5 +1452,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png"
+    },
+    {
+        "name": "amily Gekijyo (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png"
     }
 ]
