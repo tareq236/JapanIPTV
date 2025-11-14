@@ -1571,5 +1571,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
+    },
+    {
+        "name": "Kids Staton TV (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png"
     }
 ]
