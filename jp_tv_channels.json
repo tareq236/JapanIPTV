@@ -801,5 +801,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/tvo/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png"
+    },
+    {
+        "name": "Kansai TV",
+        "category": "地上波",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/kansaitv/index.m3u8",
+        "channel_logo": "\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     }
 ]
