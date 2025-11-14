@@ -519,5 +519,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png"
+    },
+    {
+        "name": "テスト",
+        "category": "地上波",
+        "url": "",
+        "url_free_tv": "https://ib.adnxs.com/getuid?https%3A%2F%2Fvid-io-iad.springserve.com%2Fusersync%3Faid%3D1000001%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uuid%3D%24UID",
+        "channel_logo": ""
     }
 ]
