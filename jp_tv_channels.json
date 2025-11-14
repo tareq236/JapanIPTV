@@ -134,14 +134,6 @@
         "id": 10803
     },
     {
-        "name": "BS フジ",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs06",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",
-        "id": 10790
-    },
-    {
         "name": "NHK BS4K",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01",
