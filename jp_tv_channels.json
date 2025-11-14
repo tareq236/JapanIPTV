@@ -1501,5 +1501,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png"
+    },
+    {
+        "name": "Golf Network (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png"
     }
 ]
