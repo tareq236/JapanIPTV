@@ -1123,5 +1123,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22",
         "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg"
+    },
+    {
+        "name": "Green Channel (Primehome)",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg"
     }
 ]
