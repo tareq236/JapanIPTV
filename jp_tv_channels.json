@@ -523,13 +523,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
     },
     {
-        "name": "TV Osaka (Primehome)",
-        "category": "",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png"
-    },
-    {
         "name": "NHK BS",
         "category": "BS",
         "url": "",
