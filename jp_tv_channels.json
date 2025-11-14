@@ -1102,5 +1102,12 @@
         "url": "",
         "url_free_tv": "JSport 1 (Primehome)",
         "channel_logo": "\"https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg"
+    },
+    {
+        "name": "JSport 2 (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs19",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg"
     }
 ]
