@@ -794,5 +794,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/abc/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png"
+    },
+    {
+        "name": "TV Osaka",
+        "category": "地上波",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/tvo/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png"
     }
 ]
