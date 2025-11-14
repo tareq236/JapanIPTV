@@ -941,5 +941,12 @@
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/wprime/index.m3u8",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"
+    },
+    {
+        "name": "WOWOW Cinema",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/wcinema/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"
     }
 ]
