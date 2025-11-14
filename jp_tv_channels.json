@@ -501,13 +501,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
     },
     {
-        "name": "NHK E HD (Primehome)",
-        "category": "地上波",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"
-    },
-    {
         "name": "NTV HD(Primehome)",
         "category": "地上波",
         "url": "",
