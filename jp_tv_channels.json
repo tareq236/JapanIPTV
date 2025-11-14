@@ -22,14 +22,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
     },
     {
-        "name": "日本映画専門チャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",
-        "category": "bs",
-        "id": 10739
-    },
-    {
         "name": "釣りビジョン",
         "category": "BS",
         "url": "",
