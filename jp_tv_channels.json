@@ -1,13 +1,5 @@
 [
     {
-        "name": "毎日放送",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",
-        "category": "terrestrial",
-        "id": null
-    },
-    {
         "name": "読売テレビ",
         "category": "地上波",
         "url": "",
