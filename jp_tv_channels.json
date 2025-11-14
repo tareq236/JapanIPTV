@@ -1141,13 +1141,6 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
     },
     {
-        "name": "Mondo TV (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
-    },
-    {
         "name": "Space Shower TV (Primehome)",
         "category": "CS",
         "url": "",
