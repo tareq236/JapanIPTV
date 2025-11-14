@@ -808,5 +808,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/kansaitv/index.m3u8",
         "channel_logo": "\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
+    },
+    {
+        "name": "ytv",
+        "category": "地上波",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/ytv/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
     }
 ]
