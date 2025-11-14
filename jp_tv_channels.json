@@ -311,10 +311,10 @@
     },
     {
         "name": "衛星劇場",
+        "category": "CS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
-        "category": "cs",
         "id": 10771
     },
     {
