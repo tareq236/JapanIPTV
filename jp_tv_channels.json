@@ -873,13 +873,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     },
     {
-        "name": "Takarazuka Sky Stage (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
-    },
-    {
         "name": "Kids Staton TV (Primehome)",
         "category": "CS",
         "url": "",
