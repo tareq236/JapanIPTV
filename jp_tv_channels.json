@@ -62,14 +62,6 @@
         "id": null
     },
     {
-        "name": "WOWOW プライム",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
-        "category": "bs",
-        "id": 10786
-    },
-    {
         "name": "WOWOW ライブ",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20",
