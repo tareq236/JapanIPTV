@@ -32,14 +32,6 @@
         "id": 10736
     },
     {
-        "name": "TOKYO MX1",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",
-        "category": "terrestrial",
-        "id": 10769
-    },
-    {
         "name": "毎日放送",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01",
