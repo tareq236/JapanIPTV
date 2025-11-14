@@ -1562,13 +1562,6 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png"
     },
     {
-        "name": "Animal Planet (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
-    },
-    {
         "name": "History (Primehome)",
         "category": "CS",
         "url": "",
