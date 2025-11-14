@@ -1169,13 +1169,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     },
     {
-        "name": "MTV (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png"
-    },
-    {
         "name": "Takarazuka Sky Stage (Primehome)",
         "category": "CS",
         "url": "",
