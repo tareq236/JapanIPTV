@@ -948,5 +948,12 @@
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/wcinema/index.m3u8",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"
+    },
+    {
+        "name": "WOWOW Live",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/wlive/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png"
     }
 ]
