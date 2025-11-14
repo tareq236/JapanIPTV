@@ -16,14 +16,6 @@
         "id": 10816
     },
     {
-        "name": "テレビ朝日",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
-        "category": "terrestrial",
-        "id": 368864
-    },
-    {
         "name": "テレビ東京",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07",
