@@ -1144,5 +1144,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23",
         "channel_logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png"
+    },
+    {
+        "name": "Sky A (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg"
     }
 ]
