@@ -173,14 +173,6 @@
         "id": 10698
     },
     {
-        "name": "ヒストリーチャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg",
-        "category": "cs",
-        "id": 10729
-    },
-    {
         "name": "QVCジャパン",
         "category": "BS",
         "url": "",
