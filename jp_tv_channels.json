@@ -618,5 +618,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/Nippon_TV/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png\""
+    },
+    {
+        "name": "TBS",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/TBS/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png"
     }
 ]
