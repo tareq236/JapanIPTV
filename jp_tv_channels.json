@@ -78,14 +78,6 @@
         "id": null
     },
     {
-        "name": "SUN",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",
-        "category": "terrestrial",
-        "id": null
-    },
-    {
         "name": "WOWOW プライム",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12",
