@@ -1015,13 +1015,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png"
     },
     {
-        "name": "Disney Channel (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png"
-    },
-    {
         "name": "JCOM BS (Primehome)",
         "category": "BS",
         "url": "",
