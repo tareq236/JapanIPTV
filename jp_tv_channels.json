@@ -1151,5 +1151,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg"
+    },
+    {
+        "name": "Fishing Vision (Primehome)",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png"
     }
 ]
