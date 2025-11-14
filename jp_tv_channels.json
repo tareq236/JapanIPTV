@@ -233,10 +233,10 @@
     },
     {
         "name": "Jスポーツ4",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22",
         "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",
-        "category": "bs",
         "id": 10829
     },
     {
