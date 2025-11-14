@@ -611,5 +611,12 @@
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/NHK_E/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"
+    },
+    {
+        "name": "NTV",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://us1001.utako.moe/Nippon_TV/index.m3u8",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png\""
     }
 ]
