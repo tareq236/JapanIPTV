@@ -109,14 +109,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
     },
     {
-        "name": "ミュージック・ジャパンTV",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",
-        "category": "cs",
-        "id": 10695
-    },
-    {
         "name": "歌謡ポップスチャンネル",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13",
