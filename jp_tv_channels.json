@@ -1191,13 +1191,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     },
     {
-        "name": "Kayo Pops (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png"
-    },
-    {
         "name": "MTV (Primehome)",
         "category": "CS",
         "url": "",
