@@ -614,10 +614,11 @@
     },
     {
         "name": "NTV",
-        "category": "",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/Nippon_TV/index.m3u8",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png\""
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png\"",
+        "id": 10787
     },
     {
         "name": "TBS",
