@@ -1522,5 +1522,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21",
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
+    },
+    {
+        "name": "Channel Ginga (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png"
     }
 ]
