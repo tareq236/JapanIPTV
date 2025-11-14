@@ -859,13 +859,6 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png"
     },
     {
-        "name": "Tabi Channel (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
-    },
-    {
         "name": "Music Japan TV (Primehome)",
         "category": "CS",
         "url": "",
