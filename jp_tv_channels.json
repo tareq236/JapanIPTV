@@ -1529,5 +1529,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29",
         "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png"
+    },
+    {
+        "name": "Space Shower TV (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png"
     }
 ]
