@@ -54,14 +54,6 @@
         "id": 10704
     },
     {
-        "name": "ディズニーチャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png",
-        "category": "bs",
-        "id": null
-    },
-    {
         "name": "時代劇専門チャンネル",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04",
