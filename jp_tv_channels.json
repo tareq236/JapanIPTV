@@ -467,13 +467,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"
     },
     {
-        "name": "TOKYO MX1 HD (Primehome)",
-        "category": "地上波",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
-    },
-    {
         "name": "TV Asahi (NSFW) (Primehome)",
         "category": "",
         "url": "",
