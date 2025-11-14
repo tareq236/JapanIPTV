@@ -109,14 +109,6 @@
         "id": 10731
     },
     {
-        "name": "宝塚歌劇専門チャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
-        "category": "cs",
-        "id": 10698
-    },
-    {
         "name": "QVCジャパン",
         "category": "BS",
         "url": "",
