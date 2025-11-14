@@ -1403,5 +1403,12 @@
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/homedrama/index.m3u8",
         "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png"
+    },
+    {
+        "name": "Channel Ginga",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/gingach/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png"
     }
 ]
