@@ -145,10 +145,10 @@
     },
     {
         "name": "BS TBS",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs04",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",
-        "category": "bs",
         "id": 365927
     },
     {
