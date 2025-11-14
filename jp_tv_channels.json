@@ -70,14 +70,6 @@
         "id": 10739
     },
     {
-        "name": "スカイA",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",
-        "category": "cs",
-        "id": null
-    },
-    {
         "name": "釣りビジョン",
         "category": "BS",
         "url": "",
