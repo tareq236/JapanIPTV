@@ -16,14 +16,6 @@
         "id": 10816
     },
     {
-        "name": "テレビ東京",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",
-        "category": "terrestrial",
-        "id": 10736
-    },
-    {
         "name": "毎日放送",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01",
