@@ -62,14 +62,6 @@
         "id": null
     },
     {
-        "name": "グリーンチャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",
-        "category": "bs",
-        "id": 365938
-    },
-    {
         "name": "日本映画専門チャンネル",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23",
