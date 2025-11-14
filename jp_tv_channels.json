@@ -197,14 +197,6 @@
         "id": 10720
     },
     {
-        "name": "ディスカバリーチャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
-        "category": "cs",
-        "id": 10697
-    },
-    {
         "name": "ヒストリーチャンネル",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09",
