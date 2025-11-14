@@ -453,13 +453,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
     },
     {
-        "name": "TV Asahi HD (Primehome)",
-        "category": "",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png"
-    },
-    {
         "name": "TV Tokyo HD (Primehome)",
         "category": "地上波",
         "url": "",
