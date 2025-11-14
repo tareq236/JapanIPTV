@@ -1620,5 +1620,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09",
         "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg"
+    },
+    {
+        "name": "CNNj (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg"
     }
 ]
