@@ -240,11 +240,12 @@
         "id": 10770
     },
     {
-        "name": "WOWOW Prime",
+        "name": "ＷＯＷＯＷプライム",
         "category": "BS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/wprime/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
+        "id": 10786
     },
     {
         "name": "WOWOWシネマ",
