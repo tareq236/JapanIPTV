@@ -666,5 +666,12 @@
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24",
         "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
+    },
+    {
+        "name": "ミュージックジャパンテレビ",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     }
 ]
