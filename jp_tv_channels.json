@@ -709,9 +709,10 @@
     },
     {
         "name": "テレビの音楽",
-        "category": "",
+        "category": "CS",
         "url": "https://nl00.utako.moe/musicon/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://www. lyngsat.com/logo/tv/mm/music_on_tv.png"
+        "channel_logo": "https://www. lyngsat.com/logo/tv/mm/music_on_tv.png",
+        "id": 365983
     }
 ]
