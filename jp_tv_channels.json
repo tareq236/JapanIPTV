@@ -590,10 +590,11 @@
         "id": 10744
     },
     {
-        "name": "1",
+        "name": "時代劇専門",
         "category": "",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",
+        "id": 365961
     }
 ]
