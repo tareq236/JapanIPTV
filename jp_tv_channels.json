@@ -148,11 +148,12 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png"
     },
     {
-        "name": "朝日",
+        "name": "テレビ朝日",
         "category": "地上波",
         "url": "https://us1001.utako.moe/abc/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png"
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",
+        "id": 368864
     },
     {
         "name": "テレビ大阪",
