@@ -83,7 +83,8 @@
         "category": "地上波",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/NHK_G/index.m3u8",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",
+        "id": 10758
     },
     {
         "name": "NHK E HD (Primehome)",
