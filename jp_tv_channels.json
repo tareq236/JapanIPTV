@@ -635,5 +635,12 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
         "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
         "id": 10806
+    },
+    {
+        "name": "1",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.pn"
     }
 ]
