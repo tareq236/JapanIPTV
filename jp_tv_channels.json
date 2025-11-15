@@ -88,7 +88,7 @@
     },
     {
         "name": "NHK E HD (Primehome)",
-        "category": "地上波",
+        "category": "terrestrial",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/NHK_E/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",
