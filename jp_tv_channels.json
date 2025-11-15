@@ -691,5 +691,13 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15",
         "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg",
         "id": 10787
+    },
+    {
+        "name": "TBSニュース",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11",
+        "channel_logo": "tvg-logo=\"https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
+        "id": 10833
     }
 ]
