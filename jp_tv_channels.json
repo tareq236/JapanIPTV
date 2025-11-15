@@ -364,7 +364,8 @@
         "category": "CS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/kayopops/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",
+        "id": 10731
     },
     {
         "name": "ディズニーチャンネル",
