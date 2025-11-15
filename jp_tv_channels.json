@@ -171,7 +171,7 @@
     },
     {
         "name": "KBS京都",
-        "category": "地上波",
+        "category": "terrestrial",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/kbs/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",
