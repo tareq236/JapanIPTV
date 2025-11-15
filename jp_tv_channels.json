@@ -495,11 +495,12 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png"
     },
     {
-        "name": "Sport Live Plus",
+        "name": "スポーツライブ＋",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/sport_live_plus/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",
+        "id": 10809
     },
     {
         "name": "ホームドラマチャンネル",
