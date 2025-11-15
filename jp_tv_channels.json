@@ -419,11 +419,12 @@
         "id": 10702
     },
     {
-        "name": "TBS Channel 2",
+        "name": "TBSチャンネル2 名作ドラマ・スポーツ・アニメ",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/tbsch2/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",
+        "id": 10708
     },
     {
         "name": "TV Asahi Channel 1",
