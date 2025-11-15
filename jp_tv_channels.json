@@ -428,11 +428,12 @@
         "id": 10708
     },
     {
-        "name": "TV Asahi Channel 1",
+        "name": "テレ朝チャンネル１",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/tbsch2/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",
+        "id": 10733
     },
     {
         "name": "TV Asahi Channel 2",
