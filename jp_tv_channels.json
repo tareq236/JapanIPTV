@@ -620,5 +620,12 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05",
         "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",
         "id": 10811
+    },
+    {
+        "name": "1",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12",
+        "channel_logo": "logo=\"https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
     }
 ]
