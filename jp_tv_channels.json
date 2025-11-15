@@ -480,11 +480,12 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/dd/dlife-jp.png"
     },
     {
-        "name": "Toei Channel",
+        "name": "東映チャンネル",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/toei/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/toei_channel.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/toei_channel.png",
+        "id": 365951
     },
     {
         "name": "FIGHTING TV サムライ",
