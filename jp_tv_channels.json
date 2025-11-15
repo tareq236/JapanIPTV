@@ -738,5 +738,12 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08",
         "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",
         "id": 408680
+    },
+    {
+        "name": "1",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://rt.gsspat.jp/d?id=34194&j=1",
+        "channel_logo": ""
     }
 ]
