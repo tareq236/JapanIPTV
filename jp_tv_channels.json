@@ -635,12 +635,5 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
         "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
         "id": 10806
-    },
-    {
-        "name": "1",
-        "category": "",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
     }
 ]
