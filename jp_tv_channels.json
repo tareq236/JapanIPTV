@@ -606,10 +606,11 @@
         "id": 365952
     },
     {
-        "name": "1",
+        "name": "ムービープラス",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png"
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",
+        "id": 10831
     }
 ]
