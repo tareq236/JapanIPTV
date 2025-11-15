@@ -651,5 +651,13 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
         "channel_logo": "https://www.lyngsat-logo.com/ロゴ/tv/kk/kidsstation.png",
         "id": 10795
+    },
+    {
+        "name": "カートゥーンネットワーク",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg",
+        "id": 10706
     }
 ]
