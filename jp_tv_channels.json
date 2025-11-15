@@ -538,7 +538,7 @@
         "name": "Gaki no Tsukai",
         "category": "地上波",
         "url": "",
-        "url_free_tv": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
+        "url_free_tv": "extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
         "channel_logo": ""
     }
 ]
