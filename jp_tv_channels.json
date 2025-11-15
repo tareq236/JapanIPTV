@@ -179,10 +179,11 @@
     },
     {
         "name": "サンテレビ",
-        "category": "地上波",
+        "category": "terrestrial",
         "url": "",
         "url_free_tv": "https://us1001.utako.moe/suntv/index.m3u8",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png"
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",
+        "id": 10693
     },
     {
         "name": "NHK BS",
