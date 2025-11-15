@@ -644,10 +644,11 @@
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
     },
     {
-        "name": "1",
+        "name": "キッズ・スタトン・テレビ",
         "category": "",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07",
-        "channel_logo": "https://www.lyngsat-logo.com/ロゴ/tv/kk/kidsstation.png"
+        "channel_logo": "https://www.lyngsat-logo.com/ロゴ/tv/kk/kidsstation.png",
+        "id": 10795
     }
 ]
