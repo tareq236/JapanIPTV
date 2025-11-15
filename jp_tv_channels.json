@@ -580,5 +580,12 @@
         "url_free_tv": "https://nl00.utako.moe/js1/index.m3u8",
         "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",
         "id": 10761
+    },
+    {
+        "name": "1",
+        "category": "",
+        "url": "https://nl00.utako.moe/v_paradise/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png"
     }
 ]
