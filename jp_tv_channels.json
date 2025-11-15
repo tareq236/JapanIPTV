@@ -699,5 +699,12 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11",
         "channel_logo": "tvg-logo=\"https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",
         "id": 10833
+    },
+    {
+        "name": "格闘テレビサムライ",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/fighting_tv/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png"
     }
 ]
