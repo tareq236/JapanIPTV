@@ -604,5 +604,12 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
         "id": 365952
+    },
+    {
+        "name": "1",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png"
     }
 ]
