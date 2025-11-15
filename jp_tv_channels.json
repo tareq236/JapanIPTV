@@ -532,11 +532,12 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png"
     },
     {
-        "name": "V Paradise (NSFW)",
+        "name": "V☆パラダイス",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://nl00.utako.moe/v_paradise/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.pn"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.pn",
+        "id": 10774
     },
     {
         "name": "ミュージック・ジャパンTV",
