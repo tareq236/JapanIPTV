@@ -526,5 +526,12 @@
         "url": "",
         "url_free_tv": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png"
+    },
+    {
+        "name": "JSport 1",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18",
+        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg"
     }
 ]
