@@ -743,10 +743,11 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png"
     },
     {
-        "name": "1",
+        "name": "ナショナルジオグラフィック・ジャパン",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
+        "id": 10725
     }
 ]
