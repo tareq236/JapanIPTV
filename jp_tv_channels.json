@@ -741,5 +741,12 @@
         "url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png"
+    },
+    {
+        "name": "1",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg"
     }
 ]
