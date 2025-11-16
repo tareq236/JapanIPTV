@@ -527,14 +527,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png"
     },
     {
-        "name": "V☆パラダイス",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/v_paradise/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.pn",
-        "id": 10774
-    },
-    {
         "name": "キッズステーション",
         "category": "CS",
         "url": "",
