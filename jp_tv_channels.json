@@ -749,8 +749,8 @@
     {
         "name": "1",
         "category": "",
-        "url": "",
-        "url_free_tv": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+        "url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1",
+        "url_free_tv": "",
         "channel_logo": "ttps://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png\" tvg-id=\"IgoShogiChannel.jp"
     }
 ]
