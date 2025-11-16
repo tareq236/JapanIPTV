@@ -1,12 +1,5 @@
 [
     {
-        "name": "読売テレビ",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
-    },
-    {
         "name": "釣りビジョン",
         "category": "BS",
         "url": "",
