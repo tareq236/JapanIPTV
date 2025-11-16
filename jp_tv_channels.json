@@ -749,12 +749,5 @@
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10",
         "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg",
         "id": 10725
-    },
-    {
-        "name": "カートゥーンネットワーク",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg"
     }
 ]
