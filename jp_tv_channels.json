@@ -751,5 +751,12 @@
         "url_free_tv": "https://nl00.utako.moe/mnet/index.m3u8",
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",
         "id": 365981
+    },
+    {
+        "name": "Music ON TV",
+        "category": "cs",
+        "url": "",
+        "url_free_tv": "https://nl00.utako.moe/musicon/index.m3u8",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_on_tv.png"
     }
 ]
