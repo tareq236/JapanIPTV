@@ -513,13 +513,6 @@
         "id": 10809
     },
     {
-        "name": "ホームドラマチャンネル",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/homedrama/index.m3u8",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png"
-    },
-    {
         "name": "チャンネル銀河",
         "category": "CS",
         "url": "",
