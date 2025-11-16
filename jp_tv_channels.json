@@ -736,10 +736,11 @@
         "id": 10725
     },
     {
-        "name": "1",
+        "name": "LaLaTV",
         "category": "",
         "url": "",
         "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
+        "id": 365978
     }
 ]
