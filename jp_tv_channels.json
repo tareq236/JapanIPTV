@@ -549,14 +549,6 @@
         "id": 10774
     },
     {
-        "name": "ミュージック・ジャパンTV",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png",
-        "id": 365986
-    },
-    {
         "name": "キッズステーション",
         "category": "CS",
         "url": "",
