@@ -855,5 +855,12 @@
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews.png"
+    },
+    {
+        "name": "共同通信News",
+        "category": "CS",
+        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png"
     }
 ]
