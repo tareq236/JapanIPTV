@@ -754,8 +754,8 @@
     {
         "name": "1",
         "category": "",
-        "url": "",
-        "url_free_tv": "https://proxyv2.utako.moe/ph.php?&isp=1&id=cs03",
+        "url": "https://ca01.utako.moe/Animax/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
