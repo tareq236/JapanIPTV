@@ -932,5 +932,12 @@
         "url": "https://stream3.shopch.jp/HLS/master.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://i.imgur.com/3K36JEA.jpg"
+    },
+    {
+        "name": "1",
+        "category": "",
+        "url": "",
+        "url_free_tv": "http://203.162.235.41:16916",
+        "channel_logo": ""
     }
 ]
