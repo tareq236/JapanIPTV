@@ -927,10 +927,10 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png"
     },
     {
-        "name": "1",
-        "category": "",
+        "name": "Shop Channel",
+        "category": "BS",
         "url": "https://stream3.shopch.jp/HLS/master.m3u8",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://i.imgur.com/3K36JEA.jpg"
     }
 ]
