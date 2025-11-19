@@ -932,12 +932,5 @@
         "url": "https://stream3.shopch.jp/HLS/master.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://i.imgur.com/3K36JEA.jpg"
-    },
-    {
-        "name": "1",
-        "category": "",
-        "url": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8",
-        "url_free_tv": "",
-        "channel_logo": ""
     }
 ]
