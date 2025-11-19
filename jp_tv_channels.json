@@ -936,13 +936,6 @@
     {
         "name": "1",
         "category": "",
-        "url": "",
-        "url_free_tv": "http://203.162.235.41:16916",
-        "channel_logo": ""
-    },
-    {
-        "name": "1",
-        "category": "",
         "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
         "url_free_tv": "",
         "channel_logo": ""
