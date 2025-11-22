@@ -162,8 +162,8 @@
     {
         "name": "KBS京都",
         "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://us1001.utako.moe/kbs/index.m3u8",
+        "url": "https://us1001.utako.moe/kbs/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",
         "id": 365980
     },
