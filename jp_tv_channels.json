@@ -109,8 +109,8 @@
     {
         "name": "テレ朝チ",
         "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://us1001.utako.moe/TV_Asahi/index.m3u8",
+        "url": "https://us1001.utako.moe/TV_Asahi/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",
         "id": 365967
     },
