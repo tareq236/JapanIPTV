@@ -2,8 +2,8 @@
     {
         "name": "釣りビジョン",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
+        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
+        "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png",
         "id": 10704
     },
