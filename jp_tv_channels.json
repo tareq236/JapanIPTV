@@ -26,8 +26,8 @@
     {
         "name": "QVCジャパン",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "https://us1001.utako.moe/Nippon_TV/index.m3u8",
+        "url": "https://us1001.utako.moe/Nippon_TV/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png\"",
         "id": 10777
     },
