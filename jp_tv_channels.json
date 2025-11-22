@@ -102,8 +102,8 @@
     {
         "name": "フジテレビ",
         "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://us1001.utako.moe/Fuji_TV/index.m3u8",
+        "url": "https://us1001.utako.moe/Fuji_TV/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
     },
     {
