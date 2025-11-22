@@ -210,8 +210,8 @@
     {
         "name": "BSフジ",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/bsfuji/index.m3u8",
+        "url": "https://nl00.utako.moe/bsfuji/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",
         "id": 365929
     },
