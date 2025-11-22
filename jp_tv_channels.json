@@ -16,14 +16,6 @@
         "id": 10806
     },
     {
-        "name": "歌謡ポップスチャンネル",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",
-        "category": "cs",
-        "id": 10731
-    },
-    {
         "name": "QVCジャパン",
         "category": "BS",
         "url": "https://us1001.utako.moe/Nippon_TV/index.m3u8",
