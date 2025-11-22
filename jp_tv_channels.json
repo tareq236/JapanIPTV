@@ -147,8 +147,8 @@
     {
         "name": "読売テレビ ytv",
         "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://us1001.utako.moe/ytv/index.m3u8",
+        "url": "https://us1001.utako.moe/ytv/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
     },
     {
