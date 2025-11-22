@@ -757,8 +757,8 @@
     {
         "name": "エンタメ～テレDEEP",
         "category": "CS",
-        "url": "",
-        "url_free_tv": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8",
+        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png"
     },
     {
