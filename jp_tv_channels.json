@@ -591,8 +591,8 @@
     {
         "name": "ディスカバリーチャンネル",
         "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
+        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08",
+        "url_free_tv": "",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",
         "id": 10697
     },
