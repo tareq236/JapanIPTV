@@ -274,8 +274,8 @@
     {
         "name": "アニマックス",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/Animax/index.m3u8",
+        "url": "https://nl00.utako.moe/Animax/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",
         "id": 365939
     },
