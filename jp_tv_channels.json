@@ -194,8 +194,8 @@
     {
         "name": "BS TBS",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/bstbs/index.m3u8",
+        "url": "https://nl00.utako.moe/bstbs/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",
         "id": 10710
     },
