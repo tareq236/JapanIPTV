@@ -452,8 +452,8 @@
     {
         "name": "ディーライフ",
         "category": "CS",
-        "url": "",
-        "url_free_tv": "https://nl00.utako.moe/dlife/index.m3u8",
+        "url": "https://nl00.utako.moe/dlife/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/dd/dlife-jp.png"
     },
     {
