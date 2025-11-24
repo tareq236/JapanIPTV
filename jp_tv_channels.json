@@ -986,12 +986,5 @@
         "url": "https://us1001.utako.moe/kansaitv/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
-    },
-    {
-        "name": "1",
-        "category": "",
-        "url": "https://nl00.utako.moe/nihoneiga/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": ""
     }
 ]
