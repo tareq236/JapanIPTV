@@ -979,5 +979,12 @@
         "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://i.imgur.com/xWSzQ34.png"
+    },
+    {
+        "name": "カンテレ",
+        "category": "terrestrial",
+        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     }
 ]
