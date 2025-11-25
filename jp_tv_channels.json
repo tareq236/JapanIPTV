@@ -154,7 +154,7 @@
     {
         "name": "サンテレビ",
         "category": "terrestrial",
-        "url": "https://us1001.utako.moe/suntv/index.m3u8",
+        "url": "https://nl.utako.moe/suntv/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",
         "id": 10693
