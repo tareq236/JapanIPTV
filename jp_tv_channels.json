@@ -988,11 +988,12 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     },
     {
-        "name": "1",
-        "category": "",
-        "url": "https://nl.utako.moe/NHK_G/index.m3u8",
+        "name": "TBS",
+        "category": "terrestrial",
+        "url": "https://nl.utako.moe/TBS/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",
+        "id": 10693
     },
     {
         "name": "NTV",
