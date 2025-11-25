@@ -990,8 +990,8 @@
     {
         "name": "1",
         "category": "",
-        "url": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01",
         "channel_logo": ""
     }
 ]
