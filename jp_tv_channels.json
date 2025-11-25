@@ -1009,5 +1009,12 @@
         "url": "https://nl.utako.moe/bsntv/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
+    },
+    {
+        "name": "TV関西",
+        "category": "terrestrial",
+        "url": "https://nl.utako.moe/kansaitv/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     }
 ]
