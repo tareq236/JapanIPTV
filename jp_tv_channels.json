@@ -116,7 +116,7 @@
     {
         "name": "テレビ毎日",
         "category": "terrestrial",
-        "url": "https://us1001.utako.moe/abc/index.m3u8",
+        "url": "https://nl.utako.moe/mbs/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png"
     },
