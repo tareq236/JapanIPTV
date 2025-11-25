@@ -123,7 +123,7 @@
     {
         "name": "テレビ朝日",
         "category": "terrestrial",
-        "url": "https://nl.utako.moe/TV_Asahi/index.m3u8",
+        "url": "https://nl.utako.moe/abc/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",
         "id": 368864
