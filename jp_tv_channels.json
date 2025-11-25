@@ -1002,5 +1002,12 @@
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png\"",
         "id": 10736
+    },
+    {
+        "name": "BS NTV",
+        "category": "",
+        "url": "https://nl.utako.moe/bsntv/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     }
 ]
