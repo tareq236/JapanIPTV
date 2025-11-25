@@ -226,8 +226,8 @@
     {
         "name": "WOWOWシネマ",
         "category": "BS",
-        "url": "https://nl00.utako.moe/wcinema/index.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",
         "id": 365932
     },
