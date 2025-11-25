@@ -1016,5 +1016,12 @@
         "url": "https://nl.utako.moe/kansaitv/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
+    },
+    {
+        "name": "Nittele G+",
+        "category": "CS",
+        "url": "https://nl.utako.moe/ntvgplus/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
     }
 ]
