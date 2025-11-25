@@ -514,7 +514,8 @@
         "category": "CS",
         "url": "https://nl.utako.moe/tabi/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "logo=\"https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
+        "channel_logo": "logo=\"https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
+        "id": 10728
     },
     {
         "name": "ディズニージュニア",
