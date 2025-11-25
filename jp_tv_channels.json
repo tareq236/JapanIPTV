@@ -997,10 +997,10 @@
     },
     {
         "name": "TV Tokyo",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/TV_Tokyo/index.m3u8",
+        "category": "BS",
+        "url": "https://nl.utako.moe/bstvtokyo/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png\"",
+        "channel_logo": "\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",
         "id": 10736
     },
     {
