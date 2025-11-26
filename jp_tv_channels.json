@@ -974,8 +974,8 @@
     {
         "name": "Gakinotukai",
         "category": "BS",
-        "url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
         "channel_logo": ""
     }
 ]
