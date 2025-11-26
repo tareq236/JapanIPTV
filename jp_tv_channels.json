@@ -920,13 +920,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png"
     },
     {
-        "name": "CGNTV Japan",
-        "category": "CS",
-        "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cgn-tv-japan-kr-jp.png"
-    },
-    {
         "name": "QVC",
         "category": "CS",
         "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
