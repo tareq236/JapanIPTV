@@ -970,5 +970,12 @@
         "url": "https://nl.utako.moe/ntvgplus/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
+    },
+    {
+        "name": "1",
+        "category": "",
+        "url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
