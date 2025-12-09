@@ -596,14 +596,6 @@
         "id": 10757
     },
     {
-        "name": "フィッシングビジョン",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25",
-        "channel_logo": "",
-        "id": 365944
-    },
-    {
         "name": "BS10スターチャンネル",
         "category": "BS",
         "url": "https://nl.utako.moe/bs10_star/index.m3u8",
