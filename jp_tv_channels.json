@@ -387,13 +387,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png"
     },
     {
-        "name": "ディーライフ",
-        "category": "CS",
-        "url": "https://nl00.utako.moe/dlife/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/dd/dlife-jp.png"
-    },
-    {
         "name": "東映チャンネル",
         "category": "CS",
         "url": "https://nl.utako.moe/toei/index.m3u8",
