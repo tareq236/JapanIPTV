@@ -998,12 +998,5 @@
         "url": "https://nl.utako.moe/kayopops/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg"
-    },
-    {
-        "name": "日本映像専門",
-        "category": "BS",
-        "url": "https://nl.utako.moe/nihoneiga/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png"
     }
 ]
