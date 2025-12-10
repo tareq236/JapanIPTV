@@ -10,8 +10,8 @@
     {
         "name": "ゴルフ ネットワーク",
         "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03",
+        "url": "https://nl.utako.moe/golf_network/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",
         "id": 10806
     },
