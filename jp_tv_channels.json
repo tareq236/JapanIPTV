@@ -804,7 +804,8 @@
         "category": "BS",
         "url": "https://stream3.shopch.jp/HLS/master.m3u8",
         "url_free_tv": "",
-        "channel_logo": "https://i.imgur.com/3K36JEA.jpg"
+        "channel_logo": "https://i.imgur.com/3K36JEA.jpg",
+        "id": 10724
     },
     {
         "name": "JSport 1",
