@@ -769,7 +769,7 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png"
     },
     {
-        "name": "NEW KPOP",
+        "name": "NEW KPOP（歌）",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165&apikey=dc76a93e-178d-5156-d492-c01a0429525f&auth=3ba56277-fd5f03a0-8b874b17-894d93c7",
