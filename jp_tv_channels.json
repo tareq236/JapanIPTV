@@ -216,14 +216,6 @@
         "id": 365931
     },
     {
-        "name": "BS10プレミアム",
-        "category": "BS",
-        "url": "https://nl.utako.moe/bs10_star/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",
-        "id": 408713
-    },
-    {
         "name": "グリーンチャンネル（娯楽・趣味）",
         "category": "BS",
         "url": "https://nl.utako.moe/green/index.m3u8",
