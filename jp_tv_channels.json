@@ -1275,13 +1275,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg"
     },
     {
-        "name": "Animax(Primehome)",
-        "category": "BS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=BS15",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png"
-    },
-    {
         "name": "日本映像専門(Primehome))",
         "category": "BS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=BS23",
