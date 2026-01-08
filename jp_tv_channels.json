@@ -1001,5 +1001,12 @@
         "url": "https://nl.utako.moe/TV_Tokyo/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"
+    },
+    {
+        "name": "時代劇専門",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS04",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png"
     }
 ]
