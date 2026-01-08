@@ -384,7 +384,7 @@
     {
         "name": "東映チャンネル（映画）",
         "category": "CS",
-        "url": "https://nl.utako.moe/toei/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS27",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/toei_channel.png",
         "id": 365951
