@@ -1107,13 +1107,6 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png"
     },
     {
-        "name": "History(Primehome)",
-        "category": "CS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg"
-    },
-    {
         "name": "TBSニュース(Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS11",
