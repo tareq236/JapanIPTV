@@ -1035,5 +1035,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
+    },
+    {
+        "name": "チャンネルGinga(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS29",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel_ginga.png"
     }
 ]
