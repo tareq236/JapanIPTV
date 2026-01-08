@@ -376,7 +376,7 @@
     {
         "name": "フジテレビNEXT(ライブ・プレミアム）",
         "category": "CS",
-        "url": "https://nl.utako.moe/fuji_next/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS26",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",
         "id": 10713
