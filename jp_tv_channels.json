@@ -1077,5 +1077,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=CS19",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png"
+    },
+    {
+        "name": "宝塚スカイステージ(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28",
+        "url_free_tv": "",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
     }
 ]
