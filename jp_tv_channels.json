@@ -305,7 +305,7 @@
     {
         "name": "ファミリー劇場（映画）",
         "category": "CS",
-        "url": "https://nl.utako.moe/familygeki/index.m3u8",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png"
     },
