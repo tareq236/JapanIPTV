@@ -493,8 +493,8 @@
     {
         "name": "ディズニージュニア（教育）",
         "category": "CS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",
         "id": 10720
     },
