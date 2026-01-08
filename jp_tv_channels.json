@@ -1226,13 +1226,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_live.png"
     },
     {
-        "name": "BS 10 Star Channel(Primehome)",
-        "category": "BS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS08",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png"
-    },
-    {
         "name": "JSport 1(Primehome)",
         "category": "BS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=BS18",
