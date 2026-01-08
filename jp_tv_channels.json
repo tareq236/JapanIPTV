@@ -1105,5 +1105,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS10",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg"
+    },
+    {
+        "name": "ディズニージュニア(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png"
     }
 ]
