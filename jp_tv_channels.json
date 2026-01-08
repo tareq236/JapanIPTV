@@ -1329,5 +1329,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS24",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250 px-2019_Disney_Channel_logo.svg.png"
+    },
+    {
+        "name": "JCOM BS(Primehome)",
+        "category": "BS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS31",
+        "url_free_tv": "",
+        "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png"
     }
 ]
