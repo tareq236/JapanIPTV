@@ -453,8 +453,8 @@
     {
         "name": "衛星劇場（映画）",
         "category": "BC",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS22",
+        "url_free_tv": "",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
         "id": 365952
     },
