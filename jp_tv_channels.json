@@ -1049,5 +1049,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS26",
         "url_free_tv": "",
         "channel_logo": "https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png"
+    },
+    {
+        "name": "Music Japan TV(Primehome)",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+        "url_free_tv": "",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     }
 ]
