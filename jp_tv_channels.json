@@ -1340,8 +1340,8 @@
     {
         "name": "1",
         "category": "",
-        "url": "extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
         "channel_logo": ""
     }
 ]
