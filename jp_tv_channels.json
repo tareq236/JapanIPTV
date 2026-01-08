@@ -1219,13 +1219,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg"
     },
     {
-        "name": "Fishing Vision(Primehome)",
-        "category": "BS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=BS25",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png"
-    },
-    {
         "name": "ディズニーチャンネル(Primehome)",
         "category": "BS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS24",
