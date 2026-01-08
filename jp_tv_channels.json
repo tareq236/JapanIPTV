@@ -1128,13 +1128,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
     },
     {
-        "name": "Animal Planet(Primehome)",
-        "category": "CS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
-    },
-    {
         "name": "History(Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09",
