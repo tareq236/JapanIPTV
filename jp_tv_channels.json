@@ -993,7 +993,7 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
     },
     {
-        "name": "テスト",
+        "name": "A",
         "category": "",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
         "url_free_tv": "",
