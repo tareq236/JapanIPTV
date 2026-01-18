@@ -1012,5 +1012,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04",
         "url_free_tv": "",
         "channel_logo": ""
+    },
+    {
+        "name": "A4",
+        "category": "",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
