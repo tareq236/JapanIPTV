@@ -1042,11 +1042,11 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
     },
     {
-        "name": "A9",
+        "name": "DTB Mondo TV(Primehome)",
         "category": "",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
     },
     {
         "name": "A9-1",
