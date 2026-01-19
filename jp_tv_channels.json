@@ -1212,7 +1212,7 @@
     {
         "name": "DTB ytv(プライムホーム)",
         "category": "地上波",
-        "url": "g.png\"、ytv(プライムホーム)) http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150 px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
     }
