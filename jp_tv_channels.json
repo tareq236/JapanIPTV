@@ -993,11 +993,11 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png"
     },
     {
-        "name": "A",
+        "name": "A  NHK G HD(プライムホーム)",
         "category": "",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
     },
     {
         "name": "A2",
