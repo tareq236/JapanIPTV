@@ -1145,5 +1145,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
+    },
+    {
+        "name": "DTB 富士テレビ(Primehome)",
+        "category": "地上波",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=GD05",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
     }
 ]
