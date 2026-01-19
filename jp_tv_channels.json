@@ -1029,8 +1029,8 @@
     },
     {
         "name": "A7",
-        "category": "",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14",
+        "category": "CS",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03",
         "url_free_tv": "",
         "channel_logo": ""
     },
