@@ -1049,11 +1049,11 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "DTB ディスカバリーチャンネル(Primehome)",
+        "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png"
     },
     {
         "name": "DTB チャンネルGinga(Primehome)",
