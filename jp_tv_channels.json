@@ -1077,10 +1077,10 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png"
     },
     {
-        "name": "A",
+        "name": "DTB Animal Planet(Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24",
         "url_free_tv": "",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png"
+        "channel_logo": "https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg"
     }
 ]
