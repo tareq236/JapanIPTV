@@ -1189,13 +1189,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png"
     },
     {
-        "name": "DTB ABC(プライムホーム)",
-        "category": "地上波",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261 px-Asahi_Broadcasting_Corporation_Logo.svg.png"
-    },
-    {
         "name": "DTB Kansai TV (プライムホーム)",
         "category": "地上波",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03",
