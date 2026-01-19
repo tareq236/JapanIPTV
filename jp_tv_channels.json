@@ -1028,11 +1028,11 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png"
     },
     {
-        "name": "A7",
+        "name": "DTB ゴルフネットワーク(Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png"
     },
     {
         "name": "A8",
