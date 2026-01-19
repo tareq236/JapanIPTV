@@ -1201,5 +1201,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261 px-Asahi_Broadcasting_Corporation_Logo.svg.png"
+    },
+    {
+        "name": "DTB Kansai TV (プライムホーム)",
+        "category": "地上波",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
     }
 ]
