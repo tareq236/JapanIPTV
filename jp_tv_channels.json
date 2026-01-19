@@ -1166,5 +1166,12 @@
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=GD07",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png"
+    },
+    {
+        "name": "DTB 東京MX1(プライムホーム)",
+        "category": "地上波",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=GD08",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560 px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.pn"
     }
 ]
