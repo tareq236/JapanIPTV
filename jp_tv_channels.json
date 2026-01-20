@@ -1123,5 +1123,12 @@
         "url": "",
         "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08",
         "channel_logo": "https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png"
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
+        "channel_logo": ""
     }
 ]
