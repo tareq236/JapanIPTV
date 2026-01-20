@@ -1193,5 +1193,12 @@
         "url": "",
         "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15",
         "channel_logo": "https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg"
+    },
+    {
+        "name": "A",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png"
     }
 ]
