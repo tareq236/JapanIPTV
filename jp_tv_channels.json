@@ -1139,10 +1139,10 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "DTB  MTV (Primehome)",
+        "category": "CS",
         "url": "",
         "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
-        "channel_logo": ""
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png"
     }
 ]
