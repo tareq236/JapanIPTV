@@ -1165,5 +1165,12 @@
         "url": "",
         "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png"
+    },
+    {
+        "name": "A",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg"
     }
 ]
