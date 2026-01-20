@@ -1048,7 +1048,7 @@
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png"
     },
     {
-        "name": "DTB チャンネルGinga(Primehome)",
+        "name": "DTB Channel Ginga (Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
         "url_free_tv": "",
