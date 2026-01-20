@@ -1062,7 +1062,7 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
     },
     {
-        "name": "DTB ディズニージュニア(Primehome)",
+        "name": "DTB Disney Junior (Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
         "url_free_tv": "",
