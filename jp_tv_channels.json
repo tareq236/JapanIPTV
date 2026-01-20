@@ -1076,13 +1076,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/hh/history-us.svg"
     },
     {
-        "name": "A釣り",
-        "category": "CS",
-        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png"
-    },
-    {
         "name": "DTB Animax (Primehome)",
         "category": "BS",
         "url": "",
