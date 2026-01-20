@@ -1228,5 +1228,12 @@
         "url": "",
         "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
         "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png"
+    },
+    {
+        "name": "A",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png"
     }
 ]
