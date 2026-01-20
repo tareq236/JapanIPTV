@@ -1237,10 +1237,10 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "DTB Fishing Vision (Primehome)",
+        "category": "BS",
         "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
-        "channel_logo": ""
+        "url_free_tv": "html#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
+        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png"
     }
 ]
