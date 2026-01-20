@@ -1233,8 +1233,8 @@
         "name": "A",
         "category": "CS",
         "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png"
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01",
+        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png"
     },
     {
         "name": "DTB Fuji TV Next (Primehome)",
