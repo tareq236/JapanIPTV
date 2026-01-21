@@ -1230,13 +1230,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png"
     },
     {
-        "name": "DTB Fishing Vision (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "html#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png"
-    },
-    {
         "name": "DTB JSport 2 (Primehome)",
         "category": "BS",
         "url": "",
