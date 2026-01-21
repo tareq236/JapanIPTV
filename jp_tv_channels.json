@@ -1439,5 +1439,12 @@
         "url": "",
         "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png"
+    },
+    {
+        "name": "A",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
     }
 ]
