@@ -529,14 +529,6 @@
         "id": 365999
     },
     {
-        "name": "BBCニュース",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15",
-        "channel_logo": "",
-        "id": 10787
-    },
-    {
         "name": "格闘テレビサムライ（スポーツ）",
         "category": "CS",
         "url": "https://nl00.utako.moe/fighting_tv/index.m3u8",
