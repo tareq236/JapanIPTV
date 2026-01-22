@@ -1450,8 +1450,8 @@
     {
         "name": "A",
         "category": "",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs265",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs265",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
