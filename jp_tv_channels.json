@@ -1690,5 +1690,12 @@
         "url": "",
         "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8",
         "channel_logo": ""
+    },
+    {
+        "name": "A",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8",
+        "channel_logo": ""
     }
 ]
