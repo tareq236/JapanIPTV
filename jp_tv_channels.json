@@ -475,14 +475,6 @@
         "id": 10811
     },
     {
-        "name": "旅チャンネル（娯楽・趣味）",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",
-        "id": 10728
-    },
-    {
         "name": "ディズニージュニア（教育）",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23",
