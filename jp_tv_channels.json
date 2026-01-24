@@ -1622,10 +1622,10 @@
         "channel_logo": ""
     },
     {
-        "name": "A",
+        "name": "DTB Kドラマ映画チャンネル",
         "category": "BS",
         "url": "",
-        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/drama/playlist.m3u8",
+        "url_free_tv": "ドラマ映画チャンネル",
         "channel_logo": ""
     }
 ]
