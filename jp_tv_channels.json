@@ -1478,7 +1478,7 @@
         "name": "A",
         "category": "BC",
         "url": "",
-        "url_free_tv": "ABEMA アニメチャンネル https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8",
         "channel_logo": ""
     }
 ]
