@@ -1438,12 +1438,5 @@
         "url": "https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128"
-    },
-    {
-        "name": "競輪・オートレースチャンネル",
-        "category": "BS",
-        "url": "https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128"
     }
 ]
