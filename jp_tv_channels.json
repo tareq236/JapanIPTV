@@ -1457,7 +1457,7 @@
         "name": "A",
         "category": "BS",
         "url": "",
-        "url_free_tv": "3&width=128\" group-title=\"Abema_240p\" ,ABEMA NEWS会見チャンネル https://ds-linear-abematv.akamaized.net/preview/channel/news-plus/playlist.m3u8",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8",
         "channel_logo": ""
     }
 ]
