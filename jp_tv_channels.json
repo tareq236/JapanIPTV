@@ -1646,7 +1646,7 @@
         "name": "A",
         "category": "BS",
         "url": "",
-        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/shogi/playlist.m3u8",
         "channel_logo": ""
     }
 ]
