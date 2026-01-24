@@ -1487,5 +1487,12 @@
         "url": "",
         "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8",
         "channel_logo": ""
+    },
+    {
+        "name": "DTB 異世界・ファンタジーアニメチャンネル https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8",
+        "channel_logo": ""
     }
 ]
