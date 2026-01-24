@@ -1627,5 +1627,12 @@
         "url": "",
         "url_free_tv": "ドラマ映画チャンネル",
         "channel_logo": ""
+    },
+    {
+        "name": "A",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8",
+        "channel_logo": ""
     }
 ]
