@@ -1454,10 +1454,10 @@
         "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "DTB ABEMA NEWSチャンネル",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8",
-        "channel_logo": ""
+        "channel_logo": "https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png"
     }
 ]
