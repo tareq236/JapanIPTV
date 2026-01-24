@@ -885,8 +885,8 @@
     {
         "name": "BS NTV",
         "category": "CS",
-        "url": "https://nl.utako.moe/Nippon_TV/index.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://nl.utako.moe/Nippon_TV/index.m3u8",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     },
     {
