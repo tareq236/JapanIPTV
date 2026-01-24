@@ -1501,5 +1501,12 @@
         "url": "",
         "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8",
         "channel_logo": ""
+    },
+    {
+        "name": "DTB 異世界・ファンタジーアニメ2チャンネル",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u",
+        "channel_logo": ""
     }
 ]
