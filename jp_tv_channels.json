@@ -1703,5 +1703,12 @@
         "url": "",
         "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8",
         "channel_logo": ""
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "https://epg.pw/api/epg.json?lang=en&date=20260125&channel_id=10828",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
