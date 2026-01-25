@@ -1707,8 +1707,8 @@
     {
         "name": "A",
         "category": "",
-        "url": "https://t.freetv.fun/live/nhk-world-premium-tt.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://t.freetv.fun/live/nhk-world-premium-tt.m3u8",
         "channel_logo": ""
     }
 ]
