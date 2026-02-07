@@ -859,13 +859,6 @@
         "id": 10736
     },
     {
-        "name": "BS NTV",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://nl.utako.moe/Nippon_TV/index.m3u8",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
-    },
-    {
         "name": "TV関西",
         "category": "terrestrial",
         "url": "https://nl.utako.moe/kansaitv/index.m3u8",
