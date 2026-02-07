@@ -1702,5 +1702,12 @@
         "url": "https://nl.utako.moe/NHK_BS/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png"
+    },
+    {
+        "name": "DTB BS NTV",
+        "category": "BS",
+        "url": "https://nl.utako.moe/bsntv/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     }
 ]
