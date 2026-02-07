@@ -1707,7 +1707,7 @@
     {
         "name": "A",
         "category": "BS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01",
+        "url": "https://nl.utako.moe/NHK_BS/index.m3u8",
         "url_free_tv": "",
         "channel_logo": ""
     }
