@@ -144,14 +144,6 @@
         "id": 368867
     },
     {
-        "name": "BS TBS",
-        "category": "BS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=BS02",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",
-        "id": 10710
-    },
-    {
         "name": "BSテレビ東京",
         "category": "BS",
         "url": "https://nl.utako.moe/bstvtokyo/index.m3u8",
