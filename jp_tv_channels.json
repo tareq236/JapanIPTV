@@ -1723,5 +1723,12 @@
         "url": "https://nl.utako.moe/bstbs/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png"
+    },
+    {
+        "name": "DTB BS TV Tokyo",
+        "category": "BS",
+        "url": "https://nl.utako.moe/bstvtokyo/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png"
     }
 ]
