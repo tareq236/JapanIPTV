@@ -1705,10 +1705,10 @@
         "channel_logo": ""
     },
     {
-        "name": "A",
+        "name": "DTB NHK BS",
         "category": "BS",
         "url": "https://nl.utako.moe/NHK_BS/index.m3u8",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png"
     }
 ]
