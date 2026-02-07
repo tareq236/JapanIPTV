@@ -543,14 +543,6 @@
         "id": 10725
     },
     {
-        "name": "LaLaTV",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ll/lala_tv.png",
-        "id": 365978
-    },
-    {
         "name": "DTB Dlife",
         "category": "CS",
         "url": "https://nl.utako.moe/dlife/index.m3u8",
