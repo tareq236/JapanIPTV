@@ -933,8 +933,8 @@
     {
         "name": "DTB  Home Drama Channel (Primehome)",
         "category": "CS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05",
         "channel_logo": "https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png"
     },
     {
