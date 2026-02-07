@@ -1707,8 +1707,8 @@
     {
         "name": "A",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
+        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
