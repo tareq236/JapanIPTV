@@ -1716,5 +1716,12 @@
         "url": "https://nl.utako.moe/bsasahi/index.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg"
+    },
+    {
+        "name": "DTB BS TBS",
+        "category": "BS",
+        "url": "https://nl.utako.moe/bstbs/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png"
     }
 ]
