@@ -1712,5 +1712,12 @@
         "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
         "url_free_tv": "",
         "channel_logo": ""
+    },
+    {
+        "name": "B",
+        "category": "",
+        "url": "hi https://nl.utako.moe/TV_Asahi/index.m3u8",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
