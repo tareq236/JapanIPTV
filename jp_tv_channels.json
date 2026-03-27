@@ -1219,8 +1219,8 @@
     {
         "name": "DTB BS Asahi (Primehome)",
         "category": "BS",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
+        "url": "https://nl.utako.moe/bsasahi/index.m3u8",
+        "url_free_tv": "",
         "channel_logo": ""
     },
     {
