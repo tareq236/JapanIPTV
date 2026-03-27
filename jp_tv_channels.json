@@ -1259,13 +1259,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png"
     },
     {
-        "name": "DTB NTV HD (Primehome)",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"
-    },
-    {
         "name": "DTB TBS HD (Primehome)",
         "category": "terrestrial",
         "url": "",
