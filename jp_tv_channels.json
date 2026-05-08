@@ -1695,8 +1695,8 @@
     {
         "name": "B",
         "category": "",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
+        "url": "https://ntv4.mov3.co/hls/ntv.m3u8",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
