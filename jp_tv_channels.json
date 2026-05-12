@@ -136,14 +136,6 @@
         "id": 10693
     },
     {
-        "name": "DTB BS日テレ",
-        "category": "BS",
-        "url": "https://nl.utako.moe/bsntv/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",
-        "id": 368867
-    },
-    {
         "name": "DTB NHK BS4K",
         "category": "BS",
         "url": "https://nl.utako.moe/bsp4k/index.m3u8",
