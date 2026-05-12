@@ -105,14 +105,6 @@
         "id": 10786
     },
     {
-        "name": "DTB WOWOWシネマ（映画）",
-        "category": "BS",
-        "url": "https://nl.utako.moe/wcinema/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",
-        "id": 365932
-    },
-    {
         "name": "DTB WOWOWライブ（総合エンターテイメント）",
         "category": "BS",
         "url": "https://nl.utako.moe/wlive/index.m3u8",
