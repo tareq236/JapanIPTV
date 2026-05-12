@@ -105,14 +105,6 @@
         "id": 365931
     },
     {
-        "name": "DTB グリーンチャンネル（娯楽・趣味）",
-        "category": "BS",
-        "url": "https://nl.utako.moe/green/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",
-        "id": 365938
-    },
-    {
         "name": "DTB 日本映画専門チャンネル（映画）",
         "category": "BS",
         "url": "https://nl.utako.moe/nihoneiga/index.m3u8",
