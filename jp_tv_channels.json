@@ -637,13 +637,6 @@
         "id": 365996
     },
     {
-        "name": "DTB Neco Channel",
-        "category": "CS",
-        "url": "https://nl.utako.moe/neco/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png"
-    },
-    {
         "name": "DTB QVC",
         "category": "CS",
         "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
