@@ -184,14 +184,6 @@
         "id": 10739
     },
     {
-        "name": "DTB GAORAスポーツ",
-        "category": "CS",
-        "url": "https://nl.utako.moe/gaora/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",
-        "id": 10772
-    },
-    {
         "name": "DTB アニメシアターX（AT-X）（アニメ）",
         "category": "CS",
         "url": "https://nl.utako.moe/AT-X/index.m3u8",
