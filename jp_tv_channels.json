@@ -144,14 +144,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg"
     },
     {
-        "name": "DTB カートゥーン ネットワークHD 海外・国内（アニメ）",
-        "category": "CS",
-        "url": "https://nl.utako.moe/cartoon_network/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",
-        "id": 10706
-    },
-    {
         "name": "DTB ファミリー劇場（映画）",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20",
