@@ -114,13 +114,6 @@
         "id": 10698
     },
     {
-        "name": "DTB ミュージックジャパンテレビ（音楽）",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png"
-    },
-    {
         "name": "DTB 格闘テレビサムライ（スポーツ）",
         "category": "CS",
         "url": "https://nl00.utako.moe/fighting_tv/index.m3u8",
