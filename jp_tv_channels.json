@@ -341,13 +341,6 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png"
     },
     {
-        "name": "DTB 時代劇専門",
-        "category": "CS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS04",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/jj/jidaigeki.png"
-    },
-    {
         "name": "DTB Tabi Channel (Primehome)",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12",
