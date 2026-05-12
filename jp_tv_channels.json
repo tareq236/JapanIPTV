@@ -66,14 +66,6 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png"
     },
     {
-        "name": "DTB 衛星劇場（映画）",
-        "category": "BS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",
-        "id": 365952
-    },
-    {
         "name": "DTB 宝塚スカイステージ（娯楽・趣味）",
         "category": "BS",
         "url": "",
