@@ -159,14 +159,6 @@
         "channel_logo": "https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png"
     },
     {
-        "name": "DTB エムオン（音楽）",
-        "category": "CS",
-        "url": "https://nl.utako.moe/musicon/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",
-        "id": 10695
-    },
-    {
         "name": "DTB テレ朝チャンネル１（総合エンターテイメント）",
         "category": "CS",
         "url": "https://nl.utako.moe/ex_ch1/index.m3u8",
