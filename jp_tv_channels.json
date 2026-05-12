@@ -455,14 +455,6 @@
         "id": 10725
     },
     {
-        "name": "DTB Music ON TV",
-        "category": "CS",
-        "url": "https://nl.utako.moe/musicon/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",
-        "id": 365986
-    },
-    {
         "name": "DTB 映画 (Primehome)",
         "category": "CS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8",
