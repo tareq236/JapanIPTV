@@ -637,14 +637,6 @@
         "id": 365996
     },
     {
-        "name": "DTB QVC",
-        "category": "CS",
-        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://i.imgur.com/xWSzQ34.png",
-        "id": 10777
-    },
-    {
         "name": "DTB TBS",
         "category": "terrestrial",
         "url": "https://nl.utako.moe/TBS/index.m3u8",
