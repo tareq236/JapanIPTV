@@ -113,14 +113,6 @@
         "id": 365938
     },
     {
-        "name": "DTB アニマックス（アニメ）",
-        "category": "BS",
-        "url": "https://nl.utako.moe/Animax/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",
-        "id": 365939
-    },
-    {
         "name": "DTB 日本映画専門チャンネル（映画）",
         "category": "BS",
         "url": "https://nl.utako.moe/nihoneiga/index.m3u8",
