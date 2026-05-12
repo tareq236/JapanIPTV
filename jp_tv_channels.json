@@ -660,14 +660,6 @@
         "id": 10693
     },
     {
-        "name": "DTB NTV",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/Nippon_TV/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",
-        "id": 365913
-    },
-    {
         "name": "DTB TV Tokyo",
         "category": "BS",
         "url": "https://nl.utako.moe/bstvtokyo/index.m3u8",
