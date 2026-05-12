@@ -1637,13 +1637,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     },
     {
-        "name": "DTB BS Asahi",
-        "category": "BS",
-        "url": "https://nl.utako.moe/bsasahi/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg"
-    },
-    {
         "name": "DTB BS TBS",
         "category": "BS",
         "url": "https://nl.utako.moe/bstbs/index.m3u8",
