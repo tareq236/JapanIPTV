@@ -792,14 +792,6 @@
         "channel_logo": "https://www. lyngsat.com/logo/tv/mm/music_on_tv.png"
     },
     {
-        "name": "DTB Kayo Pops",
-        "category": "CS",
-        "url": "https://nl.utako.moe/kayopops/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",
-        "id": 10731
-    },
-    {
         "name": "DTB YTV",
         "category": "terrestrial",
         "url": "https://nl.utako.moe/ytv/index.m3u8",
