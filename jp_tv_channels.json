@@ -637,14 +637,6 @@
         "id": 365996
     },
     {
-        "name": "DTB TBS",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/TBS/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",
-        "id": 10693
-    },
-    {
         "name": "DTB TV Tokyo",
         "category": "BS",
         "url": "https://nl.utako.moe/bstvtokyo/index.m3u8",
