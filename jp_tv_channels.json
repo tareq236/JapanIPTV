@@ -596,13 +596,6 @@
         "channel_logo": "https://www. lyngsat.com/logo/tv/mm/music_on_tv.png"
     },
     {
-        "name": "DTB YTV",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/ytv/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png"
-    },
-    {
         "name": "DTB 時代劇専門",
         "category": "CS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?CID=CS04",
