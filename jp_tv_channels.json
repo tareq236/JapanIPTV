@@ -292,14 +292,6 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png"
     },
     {
-        "name": "DTB V パラダイス（娯楽・趣味）",
-        "category": "CS",
-        "url": "https://nl.utako.moe/v_paradise/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",
-        "id": 10744
-    },
-    {
         "name": "DTB 衛星劇場（映画）",
         "category": "BS",
         "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
