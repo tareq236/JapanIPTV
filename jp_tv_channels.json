@@ -66,14 +66,6 @@
         "id": 368864
     },
     {
-        "name": "DTB テレビ大阪",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/tvo/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",
-        "id": 10693
-    },
-    {
         "name": "DTB 読売テレビ ytv",
         "category": "terrestrial",
         "url": "https://nl.utako.moe/ytv/index.m3u8",
