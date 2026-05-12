@@ -606,13 +606,6 @@
         "id": 365996
     },
     {
-        "name": "DTB TV関西",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/kansaitv/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png"
-    },
-    {
         "name": "DTB アイドル・グラビア (Primehome)",
         "category": "BS",
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8",
