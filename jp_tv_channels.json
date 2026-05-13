@@ -993,12 +993,5 @@
         "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
         "url_free_tv": "",
         "channel_logo": ""
-    },
-    {
-        "name": "🅰　テスト",
-        "category": "",
-        "url": "http://vthanh.utako.moe/NHK_BS/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": ""
     }
 ]
