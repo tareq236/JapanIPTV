@@ -1175,5 +1175,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp42/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif"
+    },
+    {
+        "name": "JSport 4",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp43/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif"
     }
 ]
