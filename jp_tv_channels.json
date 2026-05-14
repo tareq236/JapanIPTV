@@ -1632,10 +1632,10 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif"
     },
     {
-        "name": "1",
-        "category": "",
-        "url": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
-        "url_free_tv": "",
+        "name": "gaki-no-tsukai",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://hamada.gaki-no-tsukai.stream/hls/test.m3u8",
         "channel_logo": ""
     }
 ]
