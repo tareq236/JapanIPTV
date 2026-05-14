@@ -1546,5 +1546,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp64/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs262.gif"
+    },
+    {
+        "name": "Music Japan TV",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp80/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif"
     }
 ]
