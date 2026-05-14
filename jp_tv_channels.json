@@ -1595,5 +1595,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp91/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif"
+    },
+    {
+        "name": "History",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp88/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif"
     }
 ]
