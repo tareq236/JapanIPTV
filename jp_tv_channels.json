@@ -1639,13 +1639,6 @@
         "channel_logo": ""
     },
     {
-        "name": "JOAB-DTV",
-        "category": "",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02",
-        "channel_logo": ""
-    },
-    {
         "name": "JOAK-DTV",
         "category": "CS",
         "url": "",
