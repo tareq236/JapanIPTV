@@ -1427,5 +1427,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif"
+    },
+    {
+        "name": "Sport live plus",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp66/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/580.gif"
     }
 ]
