@@ -59,14 +59,6 @@
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png"
     },
     {
-        "name": "DTB 宝塚スカイステージ（娯楽・趣味）",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",
-        "id": 10698
-    },
-    {
         "name": "DTB モンドテレビ（ドラマ）",
         "category": "CS",
         "url": "https://nl.utako.moe/mondo/index.m3u8",
