@@ -1224,5 +1224,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp46/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif"
+    },
+    {
+        "name": "Jcom BS",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://live.livingtv.live/jp37/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png"
     }
 ]
