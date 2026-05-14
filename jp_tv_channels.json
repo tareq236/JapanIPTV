@@ -1028,5 +1028,12 @@
         "url": "",
         "url_free_tv": "https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "\"https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png"
+    },
+    {
+        "name": "TV Tokyo",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "https://live.livingtv.live/jp8/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png"
     }
 ]
