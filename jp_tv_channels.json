@@ -1441,5 +1441,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp98/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif"
+    },
+    {
+        "name": "Home Drama Channel",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp54/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif"
     }
 ]
