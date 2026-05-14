@@ -1259,5 +1259,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp83/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif"
+    },
+    {
+        "name": "Space Shower TV",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "\"https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif"
     }
 ]
