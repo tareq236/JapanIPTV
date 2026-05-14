@@ -1364,5 +1364,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp70/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif"
+    },
+    {
+        "name": "TV Asahi Channel 2",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp71/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif"
     }
 ]
