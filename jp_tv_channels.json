@@ -1336,5 +1336,12 @@
         "url": "",
         "url_free_tv": "https://live.livingjtv.live/jp53/playlist.m3u8?token=M7VMdfn2WH",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif"
+    },
+    {
+        "name": "Mondo TV",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://live.livingjtv.live/jp55/playlist.m3u8?token=M7VMdfn2WH",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif"
     }
 ]
