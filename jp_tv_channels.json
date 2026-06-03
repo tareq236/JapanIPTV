@@ -1789,5 +1789,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif"
+    },
+    {
+        "name": "DTB etsudo Channel",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif"
     }
 ]
