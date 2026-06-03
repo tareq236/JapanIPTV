@@ -1656,5 +1656,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif"
+    },
+    {
+        "name": "DTB Jcom BS",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png"
     }
 ]
