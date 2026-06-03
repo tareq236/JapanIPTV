@@ -1740,5 +1740,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif"
+    },
+    {
+        "name": "DTB Dlife",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif"
     }
 ]
