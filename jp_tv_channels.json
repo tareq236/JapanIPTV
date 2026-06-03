@@ -287,9 +287,9 @@
     {
         "name": "DTB Nittele G+ (Primehome)",
         "category": "CS",
-        "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02",
-        "url_free_tv": "",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png"
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif"
     },
     {
         "name": "DTB Mondo TV(Primehome)",
