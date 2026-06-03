@@ -1712,5 +1712,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif"
+    },
+    {
+        "name": "DTB Super Drama TV",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif"
     }
 ]
