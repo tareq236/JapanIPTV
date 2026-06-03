@@ -442,8 +442,8 @@
         "name": "DTB Eisei Gekijo (Primehome)",
         "category": "CS",
         "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22",
-        "channel_logo": "https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png"
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif"
     },
     {
         "name": "DTB Family Gekijyo (Primehome)",
