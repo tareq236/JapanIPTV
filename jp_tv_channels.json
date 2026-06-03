@@ -1838,5 +1838,12 @@
         "url": "",
         "url_free_tv": "https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif"
+    },
+    {
+        "name": "DTB Shop Channel",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif"
     }
 ]
