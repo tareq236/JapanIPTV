@@ -533,8 +533,8 @@
     {
         "name": "DTB BS TBS (Primehome)",
         "category": "BS",
-        "url": "https://nl.utako.moe/bstbs/index.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png"
     },
     {
