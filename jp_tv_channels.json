@@ -1726,5 +1726,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif"
+    },
+    {
+        "name": "DTB TBS Channel 2",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif"
     }
 ]
