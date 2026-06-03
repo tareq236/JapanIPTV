@@ -1852,5 +1852,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs290.gif"
+    },
+    {
+        "name": "DTB KNTV",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif"
     }
 ]
