@@ -615,11 +615,11 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"
     },
     {
-        "name": "DTB NTV (Primehome)",
-        "category": "terrestrial",
-        "url": "https://nl.utako.moe/Nippon_TV/index.m3u8",
-        "url_free_tv": "",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png"
+        "name": "DTB NTV+ (Primehome)",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif"
     },
     {
         "name": "DTB TBS (Primehome)",
