@@ -1831,5 +1831,12 @@
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif"
+    },
+    {
+        "name": "DTB QVC",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif"
     }
 ]
