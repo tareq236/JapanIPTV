@@ -713,13 +713,6 @@
         "channel_logo": ""
     },
     {
-        "name": "DTB ONE PIECEチャンネル(Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8",
-        "channel_logo": ""
-    },
-    {
         "name": "DTB ファミリーアニメ(Primehome)",
         "category": "BS",
         "url": "",
