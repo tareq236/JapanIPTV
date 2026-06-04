@@ -531,13 +531,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png"
     },
     {
-        "name": "DTB TBS HD (Primehome)",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png"
-    },
-    {
         "name": "DTB TV Asahi HD (Primehome)",
         "category": "terrestrial",
         "url": "",
