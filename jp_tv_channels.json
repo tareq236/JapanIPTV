@@ -575,8 +575,8 @@
     {
         "name": "DTB NHK E (Primehome)",
         "category": "terrestrial",
-        "url": "https://nl.utako.moe/NHK_E/index.m3u8",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png"
     },
     {
