@@ -1461,13 +1461,6 @@
         "channel_logo": ""
     },
     {
-        "name": "A",
-        "category": "",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls",
-        "channel_logo": ""
-    },
-    {
         "name": "DTB BS 10 (Primehome)",
         "category": "BS",
         "url": "",
