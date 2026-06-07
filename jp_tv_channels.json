@@ -1816,5 +1816,12 @@
         "url": "http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png"
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
