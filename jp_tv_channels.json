@@ -1830,5 +1830,12 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png"
+    },
+    {
+        "name": "A",
+        "category": "CS",
+        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
