@@ -1900,5 +1900,12 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png"
+    },
+    {
+        "name": "九州・沖縄　街ネタ",
+        "category": "CS",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png"
     }
 ]
