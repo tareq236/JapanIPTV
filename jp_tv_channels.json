@@ -1300,13 +1300,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif"
     },
     {
-        "name": "Music Air",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif"
-    },
-    {
         "name": "Action Channel(AXN)",
         "category": "CS",
         "url": "",
