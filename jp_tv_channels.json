@@ -1708,8 +1708,8 @@
     {
         "name": "A",
         "category": "",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls",
+        "url": "https://t.freetv.fun/m3u/adult.m3u",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
