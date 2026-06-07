@@ -1907,5 +1907,12 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png"
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
