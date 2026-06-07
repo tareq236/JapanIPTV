@@ -1818,10 +1818,10 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "STOCK VOICE",
+        "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png"
     }
 ]
