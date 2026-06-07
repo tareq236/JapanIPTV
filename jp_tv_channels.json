@@ -1872,5 +1872,12 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png"
+    },
+    {
+        "name": "that’s 80s",
+        "category": "CS",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png"
     }
 ]
