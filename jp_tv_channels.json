@@ -1886,5 +1886,12 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_thats_90s00s.png"
+    },
+    {
+        "name": "that’s Rock",
+        "category": "CS",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png"
     }
 ]
