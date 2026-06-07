@@ -1718,5 +1718,12 @@
         "url": "https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo"
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
