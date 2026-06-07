@@ -1788,5 +1788,12 @@
         "url": "https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo"
+    },
+    {
+        "name": "A",
+        "category": "CS",
+        "url": "https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
