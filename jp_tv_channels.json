@@ -1797,10 +1797,10 @@
         "channel_logo": "https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo"
     },
     {
-        "name": "A",
+        "name": "LeminoTV (FAST)",
         "category": "CS",
         "url": "https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo"
     }
 ]
