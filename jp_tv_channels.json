@@ -1711,5 +1711,12 @@
         "url": "https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH",
         "url_free_tv": "",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif"
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
