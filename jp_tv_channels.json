@@ -1711,5 +1711,12 @@
         "url": "https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8",
         "url_free_tv": "",
         "channel_logo": "https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo"
+    },
+    {
+        "name": "Music Air",
+        "category": "CS",
+        "url": "https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH",
+        "url_free_tv": "",
+        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif"
     }
 ]
