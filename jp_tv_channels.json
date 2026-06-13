@@ -908,13 +908,6 @@
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png"
     },
     {
-        "name": "BS Fuji",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp27/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png"
-    },
-    {
         "name": "NHK BS4K",
         "category": "BS",
         "url": "",
