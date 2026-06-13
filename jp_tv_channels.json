@@ -1321,10 +1321,10 @@
         "channel_logo": "ps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "KBS",
+        "category": "terrestrial",
         "url": "http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png"
     }
 ]
