@@ -852,13 +852,6 @@
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png"
     },
     {
-        "name": "Fuji TV",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp6/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png"
-    },
-    {
         "name": "Tokyo MX1",
         "category": "terrestrial",
         "url": "",
