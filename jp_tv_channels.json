@@ -656,13 +656,6 @@
         "channel_logo": ""
     },
     {
-        "name": "DTB  あたしンちチャンネル(Primehome)",
-        "category": "BS",
-        "url": "https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8",
-        "url_free_tv": "",
-        "channel_logo": ""
-    },
-    {
         "name": "DTB ファミリーアニメ(Primehome)",
         "category": "BS",
         "url": "",
