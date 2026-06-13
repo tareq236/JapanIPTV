@@ -887,13 +887,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif"
     },
     {
-        "name": "TBS Channel 1",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://live.livingjtv.live/jp68/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif"
-    },
-    {
         "name": "TBS Channel 2",
         "category": "CS",
         "url": "",
