@@ -810,13 +810,6 @@
         "channel_logo": ""
     },
     {
-        "name": "TV Asahi",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp7/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png"
-    },
-    {
         "name": "TV Tokyo",
         "category": "terrestrial",
         "url": "",
