@@ -866,13 +866,6 @@
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png"
     },
     {
-        "name": "NHK BS4K",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp17/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png"
-    },
-    {
         "name": "WOWOW Prime",
         "category": "BS",
         "url": "",
