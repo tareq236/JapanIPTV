@@ -1323,8 +1323,8 @@
     {
         "name": "A",
         "category": "",
-        "url": "",
-        "url_free_tv": "http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls",
+        "url": "http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
