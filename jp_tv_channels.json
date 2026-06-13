@@ -1928,5 +1928,12 @@
         "url": "",
         "url_free_tv": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8",
         "channel_logo": "ps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png"
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8",
+        "channel_logo": ""
     }
 ]
