@@ -817,13 +817,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif"
     },
     {
-        "name": "WOWOW Cinema",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp31/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "\"https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif"
-    },
-    {
         "name": "WOWOW Live",
         "category": "BS",
         "url": "",
