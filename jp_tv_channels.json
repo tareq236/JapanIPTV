@@ -964,13 +964,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif"
     },
     {
-        "name": "BS 10 Premium",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp35/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif"
-    },
-    {
         "name": "JSport 1",
         "category": "BS",
         "url": "",
