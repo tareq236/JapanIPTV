@@ -964,13 +964,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif"
     },
     {
-        "name": "Disney Channel",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://live.livingjtv.live/jp46/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif"
-    },
-    {
         "name": "Jcom BS",
         "category": "BS",
         "url": "",
