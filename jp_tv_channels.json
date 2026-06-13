@@ -810,13 +810,6 @@
         "channel_logo": ""
     },
     {
-        "name": "Tokyo MX2",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://live.livingtv.live/jp10/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png"
-    },
-    {
         "name": "WOWOW Prime",
         "category": "BS",
         "url": "",
