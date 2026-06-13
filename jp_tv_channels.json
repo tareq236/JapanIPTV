@@ -1013,13 +1013,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif"
     },
     {
-        "name": "Animax",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://live.livingjtv.live/jp45/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif"
-    },
-    {
         "name": "Nihon Eiga Senmon",
         "category": "BS",
         "url": "",
