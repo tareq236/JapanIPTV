@@ -936,13 +936,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif"
     },
     {
-        "name": "TBS News",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://live.livingjtv.live/jp96/playlist.m3u8?token=M7VMdfn2WH",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif"
-    },
-    {
         "name": "gaki-no-tsukai",
         "category": "BS",
         "url": "",
