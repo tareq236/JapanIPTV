@@ -1330,7 +1330,7 @@
     {
         "name": "A",
         "category": "",
-        "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8",
+        "url": "http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying",
         "url_free_tv": "",
         "channel_logo": ""
     }
