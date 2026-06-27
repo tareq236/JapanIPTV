@@ -1403,5 +1403,12 @@
         "url": "http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_14.png"
+    },
+    {
+        "name": "Kansai TV",
+        "category": "terrestrial",
+        "url": "http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls",
+        "url_free_tv": "",
+        "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_11.png"
     }
 ]
