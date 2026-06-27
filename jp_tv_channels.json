@@ -1375,5 +1375,12 @@
         "url": "https://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_8.png"
+    },
+    {
+        "name": "TV Asahi",
+        "category": "terrestrial",
+        "url": "http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls",
+        "url_free_tv": "",
+        "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_5.png"
     }
 ]
