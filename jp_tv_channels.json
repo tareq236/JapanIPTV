@@ -1330,7 +1330,7 @@
     {
         "name": "A",
         "category": "",
-        "url": "http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls",
+        "url": "http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": ""
     }
