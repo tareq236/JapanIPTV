@@ -1393,7 +1393,7 @@
     {
         "name": "ABC",
         "category": "terrestrial",
-        "url": "http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls",
+        "url": "https://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_10.png"
     }
