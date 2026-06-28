@@ -1431,5 +1431,12 @@
         "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8",
         "url_free_tv": "",
         "channel_logo": "ps://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200\",Ga"
+    },
+    {
+        "name": "ゴルフネットワーク",
+        "category": "CS",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "//www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png\",Golf"
     }
 ]
