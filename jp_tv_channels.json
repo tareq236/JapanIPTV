@@ -1442,7 +1442,7 @@
     {
         "name": "A",
         "category": "",
-        "url": "https://akariko.netgenx.site/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls",
+        "url": "http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying",
         "url_free_tv": "",
         "channel_logo": ""
     }
