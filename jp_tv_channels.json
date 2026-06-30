@@ -1445,12 +1445,5 @@
         "url": "https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8",
         "url_free_tv": "",
         "channel_logo": ""
-    },
-    {
-        "name": "AA",
-        "category": "",
-        "url": "https://t.freetv.fun/live/gstv-1.m3u8",
-        "url_free_tv": "",
-        "channel_logo": ""
     }
 ]
