@@ -1377,13 +1377,6 @@
         "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_10.png"
     },
     {
-        "name": "NHK G Osaka",
-        "category": "terrestrial",
-        "url": "https://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
-        "channel_logo": "https://xuanzi-storage.netgenx.site"
-    },
-    {
         "name": "SUN",
         "category": "terrestrial",
         "url": "https://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls",
