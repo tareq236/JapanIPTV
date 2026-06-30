@@ -1321,13 +1321,6 @@
         "channel_logo": "ps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png"
     },
     {
-        "name": "KBS",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png"
-    },
-    {
         "name": "フジテレビ",
         "category": "terrestrial",
         "url": "https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls",
