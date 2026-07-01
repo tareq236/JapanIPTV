@@ -1384,11 +1384,11 @@
         "channel_logo": "//www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png\",Golf"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "NHK G",
+        "category": "terrestrial",
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls",
-        "channel_logo": ""
+        "channel_logo": "/upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png\",NHK G"
     },
     {
         "name": "AA",
