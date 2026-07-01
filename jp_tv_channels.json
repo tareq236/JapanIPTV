@@ -1386,8 +1386,8 @@
     {
         "name": "A",
         "category": "",
-        "url": "http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls",
         "channel_logo": ""
     },
     {
