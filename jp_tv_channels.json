@@ -1400,7 +1400,7 @@
     {
         "name": "A",
         "category": "",
-        "url": "https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls",
+        "url": "http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": ""
     }
