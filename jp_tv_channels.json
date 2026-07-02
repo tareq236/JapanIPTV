@@ -1396,5 +1396,12 @@
         "url": "https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": ""
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls",
+        "url_free_tv": "",
+        "channel_logo": ""
     }
 ]
