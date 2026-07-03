@@ -1358,8 +1358,8 @@
     {
         "name": "ABC",
         "category": "terrestrial",
-        "url": "https://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "ttps://naori-test.netgenx.site/pxx.php?shk_cid=gx02#.m3u8",
         "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_10.png"
     },
     {
