@@ -405,8 +405,8 @@
     {
         "name": "DTB Family Gekijyo (Primehome)",
         "category": "CS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls",
+        "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8",
+        "url_free_tv": "",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif"
     },
     {
