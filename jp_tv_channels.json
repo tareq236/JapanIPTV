@@ -932,7 +932,7 @@
         "name": "DTB Mnet (Primehome)",
         "category": "CS",
         "url": "",
-        "url_free_tv": "https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hl",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif"
     },
     {
