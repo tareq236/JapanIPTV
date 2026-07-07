@@ -1020,10 +1020,10 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif"
     },
     {
-        "name": "DTB Music On! TV(Primehome)",
+        "name": "DTB Music On! TV",
         "category": "CS",
         "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls",
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif"
     },
     {
