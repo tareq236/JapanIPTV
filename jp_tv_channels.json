@@ -307,9 +307,9 @@
     {
         "name": "DTB Animal Planet(Primehome)",
         "category": "CS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8"
+        "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8",
+        "url_free_tv": "",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png"
     },
     {
         "name": "DTB History(Primehome)",
