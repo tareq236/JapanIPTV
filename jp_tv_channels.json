@@ -1344,8 +1344,8 @@
     {
         "name": "TV Asahi",
         "category": "terrestrial",
-        "url": "https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
+        "url": "",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls",
         "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_5.png"
     },
     {
