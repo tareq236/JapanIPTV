@@ -1398,11 +1398,11 @@
         "channel_logo": ""
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "KBS World",
+        "category": "BS",
         "url": "https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
-        "channel_logo": ""
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png"
     },
     {
         "name": "KBS京都",
