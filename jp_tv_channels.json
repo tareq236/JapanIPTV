@@ -1494,5 +1494,12 @@
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls",
         "channel_logo": ""
+    },
+    {
+        "name": "A1",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls",
+        "channel_logo": ""
     }
 ]
