@@ -1515,5 +1515,12 @@
         "url": "https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls",
         "url_free_tv": "",
         "channel_logo": ""
+    },
+    {
+        "name": "A4",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls",
+        "channel_logo": ""
     }
 ]
