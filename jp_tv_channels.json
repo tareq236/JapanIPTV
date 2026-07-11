@@ -670,13 +670,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif"
     },
     {
-        "name": "DTB etsudo Channel(Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif"
-    },
-    {
         "name": "DTB Music On! TV",
         "category": "CS",
         "url": "",
