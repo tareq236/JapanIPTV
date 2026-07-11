@@ -284,7 +284,7 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif"
     },
     {
-        "name": "DTB Discovery Channel (Primehome)",
+        "name": "DTB Discovery Channel",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls",
