@@ -467,13 +467,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png"
     },
     {
-        "name": "DTB BS Fuji (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png"
-    },
-    {
         "name": "DTB NHK BS4K (Primehome)",
         "category": "BS",
         "url": "",
