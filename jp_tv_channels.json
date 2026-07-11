@@ -327,13 +327,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif"
     },
     {
-        "name": "DTB TV Asahi (Primehome)",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png"
-    },
-    {
         "name": "DTB TV Tokyo (Primehome)",
         "category": "terrestrial",
         "url": "",
