@@ -333,13 +333,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif"
     },
     {
-        "name": "DTB WOWOW Live (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs20",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif"
-    },
-    {
         "name": "DTB WOWOW Cinema (Primehome)",
         "category": "BS",
         "url": "",
