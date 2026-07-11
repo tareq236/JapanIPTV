@@ -453,13 +453,6 @@
         "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png"
     },
     {
-        "name": "DTB BS Asahi (Primehome)",
-        "category": "BS",
-        "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8",
-        "url_free_tv": "",
-        "channel_logo": ""
-    },
-    {
         "name": "DTB BS TBS (Primehome)",
         "category": "BS",
         "url": "",
