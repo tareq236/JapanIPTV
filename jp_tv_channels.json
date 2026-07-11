@@ -270,13 +270,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif"
     },
     {
-        "name": "DTB WOWOW Cinema (Primehome)",
-        "category": "BS",
-        "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs07",
-        "url_free_tv": "",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif"
-    },
-    {
         "name": "DTB National Geographic Japan",
         "category": "CS",
         "url": "",
