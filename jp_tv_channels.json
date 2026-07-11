@@ -263,13 +263,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif"
     },
     {
-        "name": "DTB WOWOW Prime",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif"
-    },
-    {
         "name": "DTB National Geographic Japan",
         "category": "CS",
         "url": "",
