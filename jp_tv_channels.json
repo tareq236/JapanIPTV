@@ -453,13 +453,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif"
     },
     {
-        "name": "DTB Fuji TV (Primehome)",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png"
-    },
-    {
         "name": "DTB TV Asahi (Primehome)",
         "category": "terrestrial",
         "url": "",
