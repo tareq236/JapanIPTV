@@ -305,13 +305,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif"
     },
     {
-        "name": "DTB Animal Planet(Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8",
-        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png"
-    },
-    {
         "name": "DTB History(Primehome)",
         "category": "CS",
         "url": "",
