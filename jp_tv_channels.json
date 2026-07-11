@@ -789,13 +789,6 @@
         "channel_logo": "https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo"
     },
     {
-        "name": "Takarazuka Sky Stage(FAST)",
-        "category": "CS",
-        "url": "https://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
-        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg\",Takarazuka Sky Stage"
-    },
-    {
         "name": "STOCK VOICE",
         "category": "CS",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8",
