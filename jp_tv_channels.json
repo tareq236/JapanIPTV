@@ -943,13 +943,6 @@
         "channel_logo": "//www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png\",Golf"
     },
     {
-        "name": "AA",
-        "category": "",
-        "url": "https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
-        "channel_logo": ""
-    },
-    {
         "name": "KBS World",
         "category": "BS",
         "url": "https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls",
