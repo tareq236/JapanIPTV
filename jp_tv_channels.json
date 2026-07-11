@@ -957,13 +957,6 @@
         "channel_logo": ""
     },
     {
-        "name": "AAA",
-        "category": "",
-        "url": "https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
-        "channel_logo": ""
-    },
-    {
         "name": "AAAA",
         "category": "",
         "url": "https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls",
