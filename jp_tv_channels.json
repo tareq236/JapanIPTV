@@ -915,13 +915,6 @@
         "channel_logo": "ps://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png"
     },
     {
-        "name": "フジテレビ",
-        "category": "terrestrial",
-        "url": "https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls",
-        "url_free_tv": "",
-        "channel_logo": "https://xuanzi-storage.netgenx.site/icons/icon_4.png"
-    },
-    {
         "name": "TOKYO MX2",
         "category": "terrestrial",
         "url": "https://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls",
