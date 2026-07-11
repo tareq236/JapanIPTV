@@ -298,13 +298,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif"
     },
     {
-        "name": "DTB Disney Junior (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif"
-    },
-    {
         "name": "DTB History(Primehome)",
         "category": "CS",
         "url": "",
