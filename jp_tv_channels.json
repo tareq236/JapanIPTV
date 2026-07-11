@@ -263,13 +263,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif"
     },
     {
-        "name": "DTB Nittele G+ (Primehome)",
-        "category": "CS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif"
-    },
-    {
         "name": "DTB Discovery Channel",
         "category": "CS",
         "url": "",
