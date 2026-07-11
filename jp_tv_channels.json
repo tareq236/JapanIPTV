@@ -312,13 +312,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif"
     },
     {
-        "name": "DTB Animax (Primehome)",
-        "category": "BS",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png"
-    },
-    {
         "name": "DTB WOWOW Prime (Primehome)",
         "category": "BS",
         "url": "",
