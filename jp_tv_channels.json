@@ -347,13 +347,6 @@
         "channel_logo": "https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs240.gif"
     },
     {
-        "name": "DTB JSport 4 (Primehome)",
-        "category": "BC",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg"
-    },
-    {
         "name": "DTB Fuji TV ONE",
         "category": "CS",
         "url": "",
