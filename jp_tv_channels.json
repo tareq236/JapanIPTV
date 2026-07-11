@@ -348,13 +348,6 @@
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png"
     },
     {
-        "name": "DTB TOKYO MX1 (Primehome)",
-        "category": "terrestrial",
-        "url": "",
-        "url_free_tv": "https://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls",
-        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png"
-    },
-    {
         "name": "DTB 競輪・オートレースチャンネル(Primehome)",
         "category": "BS",
         "url": "https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8",
