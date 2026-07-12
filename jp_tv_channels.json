@@ -1053,5 +1053,12 @@
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_1.png"
+    },
+    {
+        "name": "DTB TV Asahi Channel",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_2.png"
     }
 ]
