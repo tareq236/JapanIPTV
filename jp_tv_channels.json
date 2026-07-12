@@ -1018,5 +1018,12 @@
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls",
         "channel_logo": "https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200"
+    },
+    {
+        "name": "DTB NHK G",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "http://haru.charandom.blog/stream/jp/nhk_g_(subch)/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png"
     }
 ]
