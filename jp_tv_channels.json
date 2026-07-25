@@ -1095,5 +1095,12 @@
         "url": "",
         "url_free_tv": "https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01",
         "channel_logo": ""
+    },
+    {
+        "name": "A",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs14",
+        "channel_logo": ""
     }
 ]
