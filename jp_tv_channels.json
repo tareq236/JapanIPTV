@@ -1375,5 +1375,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/kayo_pops/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png"
+    },
+    {
+        "name": "DTB",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/music_japan_tv/stream-output.m3u8?mode=hl",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png"
     }
 ]
