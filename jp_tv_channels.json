@@ -1284,5 +1284,12 @@
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png"
+    },
+    {
+        "name": "DTB daigeki Senmon",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png"
     }
 ]
