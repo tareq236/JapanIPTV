@@ -1158,5 +1158,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/kansai_tv/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png"
+    },
+    {
+        "name": "DTB  Tv Osaka",
+        "category": "terrestrial",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png\""
     }
 ]
