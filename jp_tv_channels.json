@@ -1249,5 +1249,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/nittele_g+/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png"
+    },
+    {
+        "name": "DTB LF LIFE",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png"
     }
 ]
