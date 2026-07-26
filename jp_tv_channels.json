@@ -1165,5 +1165,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls",
         "channel_logo": ""
+    },
+    {
+        "name": "a",
+        "category": "",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/golf_network/stream-output.m3u8?mode=hls",
+        "channel_logo": ""
     }
 ]
