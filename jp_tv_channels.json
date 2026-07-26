@@ -1263,5 +1263,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/toei_channel/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png"
+    },
+    {
+        "name": "DTB 衛星劇場",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png"
     }
 ]
