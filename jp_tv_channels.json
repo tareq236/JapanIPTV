@@ -1423,5 +1423,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/wowow_live/stream-output.m3u8?mode=hls",
         "channel_logo": "https://gitflic.ru/project/reaperc/jp-iptv/blob?file=JP_NOVPN_Categories.m3u&branch=master#:~:text=https%3A//jp%2Depg%2D26f0ce.gitlab.io/logos/wowow_live.png"
+    },
+    {
+        "name": "DTB WOWOW Cinema",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png"
     }
 ]
