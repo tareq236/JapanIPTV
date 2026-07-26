@@ -1326,5 +1326,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png"
+    },
+    {
+        "name": "DTB LeminoTV",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png"
     }
 ]
