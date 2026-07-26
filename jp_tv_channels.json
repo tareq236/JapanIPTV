@@ -1472,5 +1472,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs.png"
+    },
+    {
+        "name": "DTB BS Asahi",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/bs_asahi/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png"
     }
 ]
