@@ -1298,5 +1298,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png"
+    },
+    {
+        "name": "DTB Fome Drama Channel\"",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png"
     }
 ]
