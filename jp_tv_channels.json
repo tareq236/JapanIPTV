@@ -1104,10 +1104,10 @@
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png"
     },
     {
-        "name": "DTB NTV",
+        "name": "DTB TV Asahi",
         "category": "terrestrial",
         "url": "",
-        "url_free_tv": "https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8",
-        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/ntv.png"
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png"
     }
 ]
