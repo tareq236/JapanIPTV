@@ -1041,7 +1041,7 @@
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_1.png"
     },
     {
-        "name": "DTB TV Asahi Channel2",
+        "name": "DTB TV Asahi Channel 2",
         "category": "CS",
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls",
