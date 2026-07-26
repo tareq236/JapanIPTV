@@ -1172,5 +1172,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/golf_network/stream-output.m3u8?mode=hls",
         "channel_logo": ""
+    },
+    {
+        "name": "DTB TBSNews",
+        "category": "CS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/tbs_news/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png"
     }
 ]
