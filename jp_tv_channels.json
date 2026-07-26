@@ -992,7 +992,7 @@
     },
     {
         "name": "DTB Weather News",
-        "category": "",
+        "category": "BS",
         "url": "",
         "url_free_tv": "https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls",
         "channel_logo": "https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200"
