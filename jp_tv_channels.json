@@ -1542,5 +1542,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls",
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png"
+    },
+    {
+        "name": "DTB 将棋チャンネル",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png"
     }
 ]
