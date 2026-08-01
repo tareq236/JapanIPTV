@@ -1528,5 +1528,12 @@
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls",
         "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png"
+    },
+    {
+        "name": "DTB TBS 4K",
+        "category": "BS",
+        "url": "",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-161-400x400.png"
     }
 ]
