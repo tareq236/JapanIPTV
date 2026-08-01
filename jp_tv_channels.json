@@ -931,7 +931,7 @@
         "name": "DTB KBS",
         "category": "terrestrial",
         "url": "",
-        "url_free_tv": "https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls",
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls",
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/kbs.png"
     },
     {
