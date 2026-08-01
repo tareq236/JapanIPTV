@@ -1495,10 +1495,10 @@
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png"
     },
     {
-        "name": "A",
-        "category": "",
+        "name": "DTB NTV",
+        "category": "terrestrial",
         "url": "",
         "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/ntv/stream-output.m3u8?mode=hls",
-        "channel_logo": ""
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/ntv.png\","
     }
 ]
