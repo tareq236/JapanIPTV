@@ -1145,11 +1145,11 @@
         "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png"
     },
     {
-        "name": "a",
-        "category": "",
+        "name": "DTB アクションチャンネル",
+        "category": "BS",
         "url": "",
-        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/golf_network/stream-output.m3u8?mode=hls",
-        "channel_logo": ""
+        "url_free_tv": "https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls",
+        "channel_logo": "https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png"
     },
     {
         "name": "DTB TBSNews",
