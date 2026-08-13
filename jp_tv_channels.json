@@ -1560,8 +1560,8 @@
     {
         "name": "A",
         "category": "",
-        "url": "",
-        "url_free_tv": "https://ayaka-proxy.onrender.com/live/playlive.php?vhash=29e1da1d18419990038a4a0ebf285d52a#.m3u8",
+        "url": "https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2be8f983b47cfb012f90cabae32f59969#.m3u8",
+        "url_free_tv": "",
         "channel_logo": ""
     }
 ]
